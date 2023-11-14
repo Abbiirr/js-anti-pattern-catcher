@@ -1,0 +1,1 @@
+# js-anti-pattern-catcher
