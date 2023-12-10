@@ -13,26 +13,28 @@ async function lintFiles(directoryPath) {
     ignore: false,
   });
 
-  async function getJavaScriptFiles(dir) {
+  async function getJavaScriptAndTypeScriptFiles(dir) {
     let files = await fs.readdir(dir);
     files = await Promise.all(
       files.map(async (file) => {
         const filePath = path.resolve(dir, file);
         const stat = await fs.stat(filePath);
-        return stat.isDirectory() ? getJavaScriptFiles(filePath) : filePath;
+        return stat.isDirectory()
+          ? getJavaScriptAndTypeScriptFiles(filePath)
+          : filePath;
       })
     );
-    return files.flat().filter((file) => file.endsWith(".js"));
+    return files.flat().filter((file) => /\.(js|ts|tsx)$/.test(file)); // Filter for .js, .ts, .tsx files
   }
 
-  const codeFiles = await getJavaScriptFiles(
+  const codeFiles = await getJavaScriptAndTypeScriptFiles(
     directoryPath || path.resolve(__dirname, "..", "testFiles")
   );
 
   try {
     const results = await eslint.lintFiles(codeFiles);
-    const formatter = await eslint.loadFormatter(); // Load the formatter
-    const formattedResults = formatter.format(results); // Format the results
+    const formatter = await eslint.loadFormatter();
+    const formattedResults = formatter.format(results);
     console.log(formattedResults);
   } catch (error) {
     console.error(error);
