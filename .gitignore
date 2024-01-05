@@ -107,3 +107,5 @@ dist
 frontend/package-lock.json
 Frontend-Design/package-lock.json
 .DS_Store
+
+testFiles/
