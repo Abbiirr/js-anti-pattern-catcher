@@ -12,16 +12,37 @@
       "jsx": true
     }
   },
-  "plugins": ["@typescript-eslint", "react"],
+  "plugins": ["@typescript-eslint", "react", "promise"],
   "rules": {
-    // "semi": ["error", "always"], // enforce semi-colons
-    "indent": ["error", 2], // enforce 2 spaces for indentation
-    "security/detect-object-injection": "error",
+    // Your existing rules
+    "indent": ["error", 2],
+    // "security/detect-object-injection": "error",
     "no-magic-numbers": "error",
-    "node/no-deprecated-api": "error",
+    // "node/no-deprecated-api": "error",
     "no-alert": "error",
     "no-implied-eval": "error",
     "no-unused-vars": ["error", { "args": "none" }],
-    "require-await": "error"
+    "require-await": "error",
+
+    // Additional rules you provided
+    "no-return-await": "error",
+    "no-await-in-loop": "error",
+    // "prefer-promise-all": "error",
+    // "no-promise-resolve-then": "error",
+    "no-promise-executor-return": "error",
+    "no-async-promise-executor": "error",
+    // "prefer-util-promisify": "error", //could not find this rule
+    "no-new-wrappers": "error",
+    "no-undef": "error",
+    // "no-inline-event-handlers": "error",
+    "no-eval": "error",
+    // "no-document-write": "error", //could not find this rule
+    "no-extend-native": "error",
+    "prefer-template": "error",
+    "no-unreachable": "error",
+    "max-statements": ["error", 20], // You can replace 20 with your desired value
+    "max-classes-per-file": ["error", 3], // You can replace 3 with your desired value
+    "complexity": ["error", 10], // You can replace 10 with your desired value
+    "no-mixed-operators": "error"
   }
 }
