@@ -1,5 +1,6 @@
 import pandas as pd
 
+
 # Load the CSV file into a pandas DataFrame
 csv_file_path = "parsed_data.csv"
 data = pd.read_csv(csv_file_path)
