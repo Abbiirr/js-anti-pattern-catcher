@@ -44,5 +44,6 @@
     "max-classes-per-file": ["error", 3], // You can replace 3 with your desired value
     "complexity": ["error", 10], // You can replace 10 with your desired value
     "no-mixed-operators": "error"
+    // "prefer-promise-map": "error"
   }
 }
