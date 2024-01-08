@@ -1,0 +1,1073 @@
+[0m[0m
+[0m[4mF:\#projects\smp\js-anti-pattern-catcher\testFiles\vuepress-master\.commitlintrc.js[24m[0m
+[0m  [2m19:7[22m  [31merror[39m  No magic number: 2  [2mno-magic-numbers[22m[0m
+[0m[0m
+[0m[4mF:\#projects\smp\js-anti-pattern-catcher\testFiles\vuepress-master\packages\@vuepress\core\lib\client\app.js[24m[0m
+[0m  [2m23:21[22m  [31merror[39m  Unexpected string concatenation                                    [2mprefer-template[22m[0m
+[0m  [2m25:7[22m   [31merror[39m  Unexpected alert                                                   [2mno-alert[22m[0m
+[0m  [2m25:7[22m   [31merror[39m  'window' is not defined                                            [2mno-undef[22m[0m
+[0m  [2m41:1[22m   [31merror[39m  Definition for rule 'vue/match-component-file-name' was not found  [2mvue/match-component-file-name[22m[0m
+[0m  [2m50:1[22m   [31merror[39m  Definition for rule 'vue/match-component-file-name' was not found  [2mvue/match-component-file-name[22m[0m
+[0m  [2m55:19[22m  [31merror[39m  No magic number: 0                                                 [2mno-magic-numbers[22m[0m
+[0m  [2m56:30[22m  [31merror[39m  No magic number: 1                                                 [2mno-magic-numbers[22m[0m
+[0m  [2m63:55[22m  [31merror[39m  'window' is not defined                                            [2mno-undef[22m[0m
+[0m  [2m64:7[22m   [31merror[39m  'window' is not defined                                            [2mno-undef[22m[0m
+[0m[0m
+[0m[4mF:\#projects\smp\js-anti-pattern-catcher\testFiles\vuepress-master\packages\@vuepress\core\lib\client\clientEntry.js[24m[0m
+[0m  [2m5:1[22m  [31merror[39m  'window' is not defined  [2mno-undef[22m[0m
+[0m[0m
+[0m[4mF:\#projects\smp\js-anti-pattern-catcher\testFiles\vuepress-master\packages\@vuepress\core\lib\client\dataMixin.js[24m[0m
+[0m  [2m10:23[22m  [31merror[39m  Unexpected string concatenation  [2mprefer-template[22m[0m
+[0m[0m
+[0m[4mF:\#projects\smp\js-anti-pattern-catcher\testFiles\vuepress-master\packages\@vuepress\core\lib\client\redirect.js[24m[0m
+[0m  [2m29:32[22m  [31merror[39m  Unexpected string concatenation  [2mprefer-template[22m[0m
+[0m  [2m30:31[22m  [31merror[39m  Unexpected string concatenation  [2mprefer-template[22m[0m
+[0m  [2m39:31[22m  [31merror[39m  Unexpected string concatenation  [2mprefer-template[22m[0m
+[0m[0m
+[0m[4mF:\#projects\smp\js-anti-pattern-catcher\testFiles\vuepress-master\packages\@vuepress\core\lib\client\root-mixins\updateMeta.js[24m[0m
+[0m   [2m23:32[22m  [31merror[39m  'document' is not defined                                                  [2mno-undef[22m[0m
+[0m   [2m32:7[22m   [31merror[39m  'document' is not defined                                                  [2mno-undef[22m[0m
+[0m   [2m33:7[22m   [31merror[39m  'document' is not defined                                                  [2mno-undef[22m[0m
+[0m   [2m54:7[22m   [31merror[39m  'document' is not defined                                                  [2mno-undef[22m[0m
+[0m   [2m72:23[22m  [31merror[39m  'document' is not defined                                                  [2mno-undef[22m[0m
+[0m   [2m95:1[22m   [31merror[39m  Expected indentation of 6 spaces but found 10                              [2mindent[22m[0m
+[0m   [2m95:41[22m  [31merror[39m  'document' is not defined                                                  [2mno-undef[22m[0m
+[0m   [2m96:1[22m   [31merror[39m  Expected indentation of 6 spaces but found 10                              [2mindent[22m[0m
+[0m   [2m96:25[22m  [31merror[39m  'document' is not defined                                                  [2mno-undef[22m[0m
+[0m  [2m100:19[22m  [31merror[39m  'document' is not defined                                                  [2mno-undef[22m[0m
+[0m  [2m104:7[22m   [31merror[39m  'document' is not defined                                                  [2mno-undef[22m[0m
+[0m  [2m119:13[22m  [31merror[39m  Do not access Object.prototype method 'hasOwnProperty' from target object  [2mno-prototype-builtins[22m[0m
+[0m  [2m138:12[22m  [31merror[39m  Unexpected string concatenation                                            [2mprefer-template[22m[0m
+[0m[0m
+[0m[4mF:\#projects\smp\js-anti-pattern-catcher\testFiles\vuepress-master\packages\@vuepress\core\lib\client\util.js[24m[0m
+[0m   [2m38:21[22m  [31merror[39m  No magic number: 0       [2mno-magic-numbers[22m[0m
+[0m   [2m38:50[22m  [31merror[39m  No magic number: 1       [2mno-magic-numbers[22m[0m
+[0m  [2m193:41[22m  [31merror[39m  'window' is not defined  [2mno-undef[22m[0m
+[0m  [2m196:3[22m   [31merror[39m  'window' is not defined  [2mno-undef[22m[0m
+[0m[0m
+[0m[4mF:\#projects\smp\js-anti-pattern-catcher\testFiles\vuepress-master\packages\@vuepress\core\lib\eject.js[24m[0m
+[0m  [2m18:18[22m  [31merror[39m  No magic number: 1  [2mno-magic-numbers[22m[0m
+[0m[0m
+[0m[4mF:\#projects\smp\js-anti-pattern-catcher\testFiles\vuepress-master\packages\@vuepress\core\lib\node\App.js[24m[0m
+[0m  [2m143:41[22m  [31merror[39m  Unexpected mix of '&&' and '||'. Use parentheses to clarify the intended order of operations  [2mno-mixed-operators[22m[0m
+[0m  [2m143:64[22m  [31merror[39m  Unexpected mix of '&&' and '||'. Use parentheses to clarify the intended order of operations  [2mno-mixed-operators[22m[0m
+[0m  [2m206:27[22m  [31merror[39m  No magic number: 1                                                                            [2mno-magic-numbers[22m[0m
+[0m  [2m211:32[22m  [31merror[39m  No magic number: 0                                                                            [2mno-magic-numbers[22m[0m
+[0m  [2m212:55[22m  [31merror[39m  No magic number: 1                                                                            [2mno-magic-numbers[22m[0m
+[0m  [2m261:18[22m  [31merror[39m  Unexpected string concatenation                                                               [2mprefer-template[22m[0m
+[0m  [2m262:18[22m  [31merror[39m  Unexpected string concatenation                                                               [2mprefer-template[22m[0m
+[0m  [2m282:18[22m  [31merror[39m  Unexpected string concatenation                                                               [2mprefer-template[22m[0m
+[0m  [2m332:23[22m  [31merror[39m  Unexpected string concatenation                                                               [2mprefer-template[22m[0m
+[0m  [2m360:18[22m  [31merror[39m  No magic number: 0                                                                            [2mno-magic-numbers[22m[0m
+[0m  [2m363:32[22m  [31merror[39m  No magic number: 1                                                                            [2mno-magic-numbers[22m[0m
+[0m  [2m379:7[22m   [31merror[39m  Unexpected mix of '||' and '&&'. Use parentheses to clarify the intended order of operations  [2mno-mixed-operators[22m[0m
+[0m  [2m379:42[22m  [31merror[39m  Unexpected mix of '||' and '&&'. Use parentheses to clarify the intended order of operations  [2mno-mixed-operators[22m[0m
+[0m  [2m473:1[22m   [31merror[39m  Expected indentation of 10 spaces but found 12                                                [2mindent[22m[0m
+[0m  [2m474:1[22m   [31merror[39m  Expected indentation of 12 spaces but found 14                                                [2mindent[22m[0m
+[0m  [2m475:1[22m   [31merror[39m  Expected indentation of 12 spaces but found 14                                                [2mindent[22m[0m
+[0m  [2m476:1[22m   [31merror[39m  Expected indentation of 10 spaces but found 12                                                [2mindent[22m[0m
+[0m  [2m477:1[22m   [31merror[39m  Expected indentation of 10 spaces but found 12                                                [2mindent[22m[0m
+[0m  [2m478:1[22m   [31merror[39m  Expected indentation of 10 spaces but found 12                                                [2mindent[22m[0m
+[0m[0m
+[0m[4mF:\#projects\smp\js-anti-pattern-catcher\testFiles\vuepress-master\packages\@vuepress\core\lib\node\CacheLoader.js[24m[0m
+[0m  [2m18:33[22m  [31merror[39m  Function has a complexity of 12. Maximum allowed is 10  [2mcomplexity[22m[0m
+[0m  [2m57:16[22m  [31merror[39m  Unexpected string concatenation                         [2mprefer-template[22m[0m
+[0m  [2m58:16[22m  [31merror[39m  Unexpected string concatenation                         [2mprefer-template[22m[0m
+[0m[0m
+[0m[4mF:\#projects\smp\js-anti-pattern-catcher\testFiles\vuepress-master\packages\@vuepress\core\lib\node\ClientComputedMixin.js[24m[0m
+[0m   [2m57:54[22m  [31merror[39m  No magic number: 0               [2mno-magic-numbers[22m[0m
+[0m   [2m92:14[22m  [31merror[39m  Unexpected string concatenation  [2mprefer-template[22m[0m
+[0m  [2m132:78[22m  [31merror[39m  No magic number: 0               [2mno-magic-numbers[22m[0m
+[0m[0m
+[0m[4mF:\#projects\smp\js-anti-pattern-catcher\testFiles\vuepress-master\packages\@vuepress\core\lib\node\Page.js[24m[0m
+[0m   [2m73:16[22m  [31merror[39m  Unexpected string concatenation                                             [2mprefer-template[22m[0m
+[0m   [2m88:17[22m  [31merror[39m  Async method 'process' has too many statements (27). Maximum allowed is 20  [2mmax-statements[22m[0m
+[0m  [2m235:26[22m  [31merror[39m  No magic number: 3                                                          [2mno-magic-numbers[22m[0m
+[0m  [2m288:3[22m   [31merror[39m  Async method 'enhance' has no 'await' expression                            [2mrequire-await[22m[0m
+[0m[0m
+[0m[4mF:\#projects\smp\js-anti-pattern-catcher\testFiles\vuepress-master\packages\@vuepress\core\lib\node\__tests__\plugin-api\AsyncOption.spec.js[24m[0m
+[0m   [2m3:1[22m   [31merror[39m  'describe' is not defined  [2mno-undef[22m[0m
+[0m   [2m4:3[22m   [31merror[39m  'test' is not defined      [2mno-undef[22m[0m
+[0m   [2m6:22[22m  [31merror[39m  'jest' is not defined      [2mno-undef[22m[0m
+[0m   [2m7:22[22m  [31merror[39m  'jest' is not defined      [2mno-undef[22m[0m
+[0m  [2m15:32[22m  [31merror[39m  No magic number: 1         [2mno-magic-numbers[22m[0m
+[0m  [2m15:35[22m  [31merror[39m  No magic number: 2         [2mno-magic-numbers[22m[0m
+[0m[0m
+[0m[4mF:\#projects\smp\js-anti-pattern-catcher\testFiles\vuepress-master\packages\@vuepress\core\lib\node\__tests__\plugin-api\Option.spec.js[24m[0m
+[0m   [2m3:1[22m   [31merror[39m  'describe' is not defined  [2mno-undef[22m[0m
+[0m   [2m4:3[22m   [31merror[39m  'test' is not defined      [2mno-undef[22m[0m
+[0m   [2m6:5[22m   [31merror[39m  'expect' is not defined    [2mno-undef[22m[0m
+[0m   [2m9:3[22m   [31merror[39m  'test' is not defined      [2mno-undef[22m[0m
+[0m  [2m14:5[22m   [31merror[39m  'expect' is not defined    [2mno-undef[22m[0m
+[0m  [2m19:5[22m   [31merror[39m  'expect' is not defined    [2mno-undef[22m[0m
+[0m  [2m22:3[22m   [31merror[39m  'test' is not defined      [2mno-undef[22m[0m
+[0m  [2m27:5[22m   [31merror[39m  'expect' is not defined    [2mno-undef[22m[0m
+[0m  [2m34:3[22m   [31merror[39m  'test' is not defined      [2mno-undef[22m[0m
+[0m  [2m41:5[22m   [31merror[39m  'expect' is not defined    [2mno-undef[22m[0m
+[0m  [2m46:3[22m   [31merror[39m  'test' is not defined      [2mno-undef[22m[0m
+[0m  [2m52:5[22m   [31merror[39m  'expect' is not defined    [2mno-undef[22m[0m
+[0m  [2m55:3[22m   [31merror[39m  'test' is not defined      [2mno-undef[22m[0m
+[0m  [2m57:22[22m  [31merror[39m  'jest' is not defined      [2mno-undef[22m[0m
+[0m  [2m58:22[22m  [31merror[39m  'jest' is not defined      [2mno-undef[22m[0m
+[0m  [2m64:5[22m   [31merror[39m  'expect' is not defined    [2mno-undef[22m[0m
+[0m  [2m64:46[22m  [31merror[39m  No magic number: 1         [2mno-magic-numbers[22m[0m
+[0m  [2m65:5[22m   [31merror[39m  'expect' is not defined    [2mno-undef[22m[0m
+[0m  [2m65:46[22m  [31merror[39m  No magic number: 1         [2mno-magic-numbers[22m[0m
+[0m  [2m66:5[22m   [31merror[39m  'expect' is not defined    [2mno-undef[22m[0m
+[0m  [2m66:32[22m  [31merror[39m  No magic number: 0         [2mno-magic-numbers[22m[0m
+[0m  [2m66:35[22m  [31merror[39m  No magic number: 0         [2mno-magic-numbers[22m[0m
+[0m  [2m67:5[22m   [31merror[39m  'expect' is not defined    [2mno-undef[22m[0m
+[0m  [2m67:32[22m  [31merror[39m  No magic number: 0         [2mno-magic-numbers[22m[0m
+[0m  [2m67:35[22m  [31merror[39m  No magic number: 1         [2mno-magic-numbers[22m[0m
+[0m  [2m68:5[22m   [31merror[39m  'expect' is not defined    [2mno-undef[22m[0m
+[0m  [2m68:32[22m  [31merror[39m  No magic number: 0         [2mno-magic-numbers[22m[0m
+[0m  [2m68:35[22m  [31merror[39m  No magic number: 0         [2mno-magic-numbers[22m[0m
+[0m  [2m69:5[22m   [31merror[39m  'expect' is not defined    [2mno-undef[22m[0m
+[0m  [2m69:32[22m  [31merror[39m  No magic number: 0         [2mno-magic-numbers[22m[0m
+[0m  [2m69:35[22m  [31merror[39m  No magic number: 1         [2mno-magic-numbers[22m[0m
+[0m  [2m72:3[22m   [31merror[39m  'test' is not defined      [2mno-undef[22m[0m
+[0m  [2m76:22[22m  [31merror[39m  'jest' is not defined      [2mno-undef[22m[0m
+[0m  [2m77:22[22m  [31merror[39m  'jest' is not defined      [2mno-undef[22m[0m
+[0m  [2m82:22[22m  [31merror[39m  No magic number: 1         [2mno-magic-numbers[22m[0m
+[0m  [2m82:25[22m  [31merror[39m  No magic number: 2         [2mno-magic-numbers[22m[0m
+[0m  [2m84:5[22m   [31merror[39m  'expect' is not defined    [2mno-undef[22m[0m
+[0m[0m
+[0m[4mF:\#projects\smp\js-anti-pattern-catcher\testFiles\vuepress-master\packages\@vuepress\core\lib\node\__tests__\plugin-api\PluginAPI.spec.js[24m[0m
+[0m   [2m1:1[22m   [31merror[39m  'jest' is not defined      [2mno-undef[22m[0m
+[0m   [2m2:1[22m   [31merror[39m  'jest' is not defined      [2mno-undef[22m[0m
+[0m   [2m3:1[22m   [31merror[39m  'jest' is not defined      [2mno-undef[22m[0m
+[0m   [2m8:1[22m   [31merror[39m  'describe' is not defined  [2mno-undef[22m[0m
+[0m   [2m9:3[22m   [31merror[39m  'test' is not defined      [2mno-undef[22m[0m
+[0m  [2m13:5[22m   [31merror[39m  'expect' is not defined    [2mno-undef[22m[0m
+[0m  [2m13:51[22m  [31merror[39m  No magic number: 1         [2mno-magic-numbers[22m[0m
+[0m  [2m14:5[22m   [31merror[39m  'expect' is not defined    [2mno-undef[22m[0m
+[0m  [2m14:37[22m  [31merror[39m  No magic number: 0         [2mno-magic-numbers[22m[0m
+[0m  [2m17:3[22m   [31merror[39m  'test' is not defined      [2mno-undef[22m[0m
+[0m  [2m26:7[22m   [31merror[39m  'expect' is not defined    [2mno-undef[22m[0m
+[0m  [2m26:47[22m  [31merror[39m  No magic number: 1         [2mno-magic-numbers[22m[0m
+[0m  [2m27:7[22m   [31merror[39m  'expect' is not defined    [2mno-undef[22m[0m
+[0m  [2m27:33[22m  [31merror[39m  No magic number: 0         [2mno-magic-numbers[22m[0m
+[0m  [2m28:7[22m   [31merror[39m  'expect' is not defined    [2mno-undef[22m[0m
+[0m  [2m28:48[22m  [31merror[39m  No magic number: 0         [2mno-magic-numbers[22m[0m
+[0m  [2m32:3[22m   [31merror[39m  'test' is not defined      [2mno-undef[22m[0m
+[0m  [2m39:7[22m   [31merror[39m  'expect' is not defined    [2mno-undef[22m[0m
+[0m  [2m39:47[22m  [31merror[39m  No magic number: 0         [2mno-magic-numbers[22m[0m
+[0m  [2m40:7[22m   [31merror[39m  'expect' is not defined    [2mno-undef[22m[0m
+[0m  [2m40:48[22m  [31merror[39m  No magic number: 1         [2mno-magic-numbers[22m[0m
+[0m  [2m41:7[22m   [31merror[39m  'expect' is not defined    [2mno-undef[22m[0m
+[0m  [2m41:34[22m  [31merror[39m  No magic number: 0         [2mno-magic-numbers[22m[0m
+[0m  [2m45:3[22m   [31merror[39m  'test' is not defined      [2mno-undef[22m[0m
+[0m  [2m53:7[22m   [31merror[39m  'expect' is not defined    [2mno-undef[22m[0m
+[0m  [2m53:33[22m  [31merror[39m  No magic number: 0         [2mno-magic-numbers[22m[0m
+[0m  [2m57:3[22m   [31merror[39m  'test' is not defined      [2mno-undef[22m[0m
+[0m  [2m68:5[22m   [31merror[39m  'expect' is not defined    [2mno-undef[22m[0m
+[0m  [2m68:45[22m  [31merror[39m  No magic number: 1         [2mno-magic-numbers[22m[0m
+[0m  [2m70:5[22m   [31merror[39m  'expect' is not defined    [2mno-undef[22m[0m
+[0m  [2m70:31[22m  [31merror[39m  No magic number: 0         [2mno-magic-numbers[22m[0m
+[0m  [2m73:3[22m   [31merror[39m  'test' is not defined      [2mno-undef[22m[0m
+[0m  [2m82:5[22m   [31merror[39m  'expect' is not defined    [2mno-undef[22m[0m
+[0m  [2m82:45[22m  [31merror[39m  No magic number: 2         [2mno-magic-numbers[22m[0m
+[0m  [2m84:5[22m   [31merror[39m  'expect' is not defined    [2mno-undef[22m[0m
+[0m  [2m84:31[22m  [31merror[39m  No magic number: 0         [2mno-magic-numbers[22m[0m
+[0m  [2m85:5[22m   [31merror[39m  'expect' is not defined    [2mno-undef[22m[0m
+[0m  [2m85:31[22m  [31merror[39m  No magic number: 1         [2mno-magic-numbers[22m[0m
+[0m[0m
+[0m[4mF:\#projects\smp\js-anti-pattern-catcher\testFiles\vuepress-master\packages\@vuepress\core\lib\node\__tests__\plugin-api\PluginUtil.spec.js[24m[0m
+[0m   [2m3:1[22m   [31merror[39m  'describe' is not defined  [2mno-undef[22m[0m
+[0m   [2m4:3[22m   [31merror[39m  'test' is not defined      [2mno-undef[22m[0m
+[0m   [2m7:5[22m   [31merror[39m  'expect' is not defined    [2mno-undef[22m[0m
+[0m   [2m8:5[22m   [31merror[39m  'expect' is not defined    [2mno-undef[22m[0m
+[0m   [2m9:5[22m   [31merror[39m  'expect' is not defined    [2mno-undef[22m[0m
+[0m  [2m10:5[22m   [31merror[39m  'expect' is not defined    [2mno-undef[22m[0m
+[0m  [2m13:3[22m   [31merror[39m  'test' is not defined      [2mno-undef[22m[0m
+[0m  [2m16:5[22m   [31merror[39m  'expect' is not defined    [2mno-undef[22m[0m
+[0m  [2m17:5[22m   [31merror[39m  'expect' is not defined    [2mno-undef[22m[0m
+[0m  [2m18:5[22m   [31merror[39m  'expect' is not defined    [2mno-undef[22m[0m
+[0m  [2m21:3[22m   [31merror[39m  'test' is not defined      [2mno-undef[22m[0m
+[0m  [2m22:20[22m  [31merror[39m  'jest' is not defined      [2mno-undef[22m[0m
+[0m  [2m27:5[22m   [31merror[39m  'expect' is not defined    [2mno-undef[22m[0m
+[0m  [2m28:5[22m   [31merror[39m  'expect' is not defined    [2mno-undef[22m[0m
+[0m  [2m29:5[22m   [31merror[39m  'expect' is not defined    [2mno-undef[22m[0m
+[0m  [2m30:5[22m   [31merror[39m  'expect' is not defined    [2mno-undef[22m[0m
+[0m  [2m31:5[22m   [31merror[39m  'expect' is not defined    [2mno-undef[22m[0m
+[0m  [2m31:44[22m  [31merror[39m  No magic number: 1         [2mno-magic-numbers[22m[0m
+[0m  [2m32:5[22m   [31merror[39m  'expect' is not defined    [2mno-undef[22m[0m
+[0m  [2m32:30[22m  [31merror[39m  No magic number: 0         [2mno-magic-numbers[22m[0m
+[0m  [2m32:33[22m  [31merror[39m  No magic number: 0         [2mno-magic-numbers[22m[0m
+[0m  [2m33:5[22m   [31merror[39m  'expect' is not defined    [2mno-undef[22m[0m
+[0m  [2m33:52[22m  [31merror[39m  No magic number: 0         [2mno-magic-numbers[22m[0m
+[0m  [2m33:55[22m  [31merror[39m  No magic number: 1         [2mno-magic-numbers[22m[0m
+[0m  [2m36:3[22m   [31merror[39m  'test' is not defined      [2mno-undef[22m[0m
+[0m  [2m37:20[22m  [31merror[39m  'jest' is not defined      [2mno-undef[22m[0m
+[0m  [2m42:5[22m   [31merror[39m  'expect' is not defined    [2mno-undef[22m[0m
+[0m  [2m42:30[22m  [31merror[39m  No magic number: 0         [2mno-magic-numbers[22m[0m
+[0m  [2m42:33[22m  [31merror[39m  No magic number: 0         [2mno-magic-numbers[22m[0m
+[0m  [2m43:5[22m   [31merror[39m  'expect' is not defined    [2mno-undef[22m[0m
+[0m  [2m43:52[22m  [31merror[39m  No magic number: 0         [2mno-magic-numbers[22m[0m
+[0m  [2m43:55[22m  [31merror[39m  No magic number: 1         [2mno-magic-numbers[22m[0m
+[0m[0m
+[0m[4mF:\#projects\smp\js-anti-pattern-catcher\testFiles\vuepress-master\packages\@vuepress\core\lib\node\__tests__\prepare\App.spec.js[24m[0m
+[0m  [2m12:1[22m  [31merror[39m  'describe' is not defined  [2mno-undef[22m[0m
+[0m  [2m13:3[22m  [31merror[39m  'test' is not defined      [2mno-undef[22m[0m
+[0m  [2m22:7[22m  [31merror[39m  'expect' is not defined    [2mno-undef[22m[0m
+[0m[0m
+[0m[4mF:\#projects\smp\js-anti-pattern-catcher\testFiles\vuepress-master\packages\@vuepress\core\lib\node\__tests__\prepare\Page.spec.js[24m[0m
+[0m   [2m13:1[22m   [31merror[39m  'beforeAll' is not defined  [2mno-undef[22m[0m
+[0m   [2m25:1[22m   [31merror[39m  'describe' is not defined   [2mno-undef[22m[0m
+[0m   [2m26:3[22m   [31merror[39m  'test' is not defined       [2mno-undef[22m[0m
+[0m   [2m29:5[22m   [31merror[39m  'expect' is not defined     [2mno-undef[22m[0m
+[0m   [2m30:5[22m   [31merror[39m  'expect' is not defined     [2mno-undef[22m[0m
+[0m   [2m31:5[22m   [31merror[39m  'expect' is not defined     [2mno-undef[22m[0m
+[0m   [2m34:3[22m   [31merror[39m  'test' is not defined       [2mno-undef[22m[0m
+[0m   [2m39:5[22m   [31merror[39m  'expect' is not defined     [2mno-undef[22m[0m
+[0m   [2m40:5[22m   [31merror[39m  'expect' is not defined     [2mno-undef[22m[0m
+[0m   [2m43:3[22m   [31merror[39m  'test' is not defined       [2mno-undef[22m[0m
+[0m   [2m50:5[22m   [31merror[39m  'expect' is not defined     [2mno-undef[22m[0m
+[0m   [2m53:3[22m   [31merror[39m  'test' is not defined       [2mno-undef[22m[0m
+[0m   [2m65:5[22m   [31merror[39m  'expect' is not defined     [2mno-undef[22m[0m
+[0m   [2m69:1[22m   [31merror[39m  'describe' is not defined   [2mno-undef[22m[0m
+[0m   [2m70:3[22m   [31merror[39m  'test' is not defined       [2mno-undef[22m[0m
+[0m   [2m73:5[22m   [31merror[39m  'expect' is not defined     [2mno-undef[22m[0m
+[0m   [2m74:5[22m   [31merror[39m  'expect' is not defined     [2mno-undef[22m[0m
+[0m   [2m77:3[22m   [31merror[39m  'test' is not defined       [2mno-undef[22m[0m
+[0m   [2m81:5[22m   [31merror[39m  'expect' is not defined     [2mno-undef[22m[0m
+[0m   [2m82:5[22m   [31merror[39m  'expect' is not defined     [2mno-undef[22m[0m
+[0m   [2m85:3[22m   [31merror[39m  'test' is not defined       [2mno-undef[22m[0m
+[0m   [2m90:5[22m   [31merror[39m  'expect' is not defined     [2mno-undef[22m[0m
+[0m   [2m91:5[22m   [31merror[39m  'expect' is not defined     [2mno-undef[22m[0m
+[0m   [2m97:5[22m   [31merror[39m  'expect' is not defined     [2mno-undef[22m[0m
+[0m  [2m101:1[22m   [31merror[39m  'describe' is not defined   [2mno-undef[22m[0m
+[0m  [2m102:3[22m   [31merror[39m  'test' is not defined       [2mno-undef[22m[0m
+[0m  [2m107:5[22m   [31merror[39m  'expect' is not defined     [2mno-undef[22m[0m
+[0m  [2m108:5[22m   [31merror[39m  'expect' is not defined     [2mno-undef[22m[0m
+[0m  [2m109:5[22m   [31merror[39m  'expect' is not defined     [2mno-undef[22m[0m
+[0m  [2m110:5[22m   [31merror[39m  'expect' is not defined     [2mno-undef[22m[0m
+[0m  [2m114:5[22m   [31merror[39m  'expect' is not defined     [2mno-undef[22m[0m
+[0m  [2m115:5[22m   [31merror[39m  'expect' is not defined     [2mno-undef[22m[0m
+[0m  [2m118:3[22m   [31merror[39m  'test' is not defined       [2mno-undef[22m[0m
+[0m  [2m124:5[22m   [31merror[39m  'expect' is not defined     [2mno-undef[22m[0m
+[0m  [2m125:5[22m   [31merror[39m  'expect' is not defined     [2mno-undef[22m[0m
+[0m  [2m128:3[22m   [31merror[39m  'test' is not defined       [2mno-undef[22m[0m
+[0m  [2m134:5[22m   [31merror[39m  'expect' is not defined     [2mno-undef[22m[0m
+[0m  [2m135:5[22m   [31merror[39m  'expect' is not defined     [2mno-undef[22m[0m
+[0m  [2m136:5[22m   [31merror[39m  'expect' is not defined     [2mno-undef[22m[0m
+[0m  [2m137:5[22m   [31merror[39m  'expect' is not defined     [2mno-undef[22m[0m
+[0m  [2m138:5[22m   [31merror[39m  'expect' is not defined     [2mno-undef[22m[0m
+[0m  [2m139:5[22m   [31merror[39m  'expect' is not defined     [2mno-undef[22m[0m
+[0m  [2m142:3[22m   [31merror[39m  'test' is not defined       [2mno-undef[22m[0m
+[0m  [2m147:5[22m   [31merror[39m  'expect' is not defined     [2mno-undef[22m[0m
+[0m  [2m150:3[22m   [31merror[39m  'test' is not defined       [2mno-undef[22m[0m
+[0m  [2m155:5[22m   [31merror[39m  'expect' is not defined     [2mno-undef[22m[0m
+[0m  [2m158:3[22m   [31merror[39m  'test' is not defined       [2mno-undef[22m[0m
+[0m  [2m164:5[22m   [31merror[39m  'expect' is not defined     [2mno-undef[22m[0m
+[0m  [2m168:1[22m   [31merror[39m  'describe' is not defined   [2mno-undef[22m[0m
+[0m  [2m169:3[22m   [31merror[39m  'test' is not defined       [2mno-undef[22m[0m
+[0m  [2m172:5[22m   [31merror[39m  'expect' is not defined     [2mno-undef[22m[0m
+[0m  [2m175:3[22m   [31merror[39m  'test' is not defined       [2mno-undef[22m[0m
+[0m  [2m180:5[22m   [31merror[39m  'expect' is not defined     [2mno-undef[22m[0m
+[0m  [2m183:3[22m   [31merror[39m  'test' is not defined       [2mno-undef[22m[0m
+[0m  [2m188:5[22m   [31merror[39m  'expect' is not defined     [2mno-undef[22m[0m
+[0m  [2m192:1[22m   [31merror[39m  'describe' is not defined   [2mno-undef[22m[0m
+[0m  [2m193:3[22m   [31merror[39m  'test' is not defined       [2mno-undef[22m[0m
+[0m  [2m198:16[22m  [31merror[39m  'jest' is not defined       [2mno-undef[22m[0m
+[0m  [2m202:16[22m  [31merror[39m  'jest' is not defined       [2mno-undef[22m[0m
+[0m  [2m207:38[22m  [31merror[39m  'expect' is not defined     [2mno-undef[22m[0m
+[0m  [2m210:3[22m   [31merror[39m  'test' is not defined       [2mno-undef[22m[0m
+[0m  [2m215:16[22m  [31merror[39m  'jest' is not defined       [2mno-undef[22m[0m
+[0m  [2m219:16[22m  [31merror[39m  'jest' is not defined       [2mno-undef[22m[0m
+[0m  [2m224:14[22m  [31merror[39m  'jest' is not defined       [2mno-undef[22m[0m
+[0m  [2m228:43[22m  [31merror[39m  'expect' is not defined     [2mno-undef[22m[0m
+[0m  [2m231:3[22m   [31merror[39m  'test' is not defined       [2mno-undef[22m[0m
+[0m  [2m232:26[22m  [31merror[39m  'jest' is not defined       [2mno-undef[22m[0m
+[0m  [2m238:11[22m  [31merror[39m  'expect' is not defined     [2mno-undef[22m[0m
+[0m  [2m240:14[22m  [31merror[39m  'jest' is not defined       [2mno-undef[22m[0m
+[0m  [2m243:5[22m   [31merror[39m  'expect' is not defined     [2mno-undef[22m[0m
+[0m  [2m247:1[22m   [31merror[39m  'describe' is not defined   [2mno-undef[22m[0m
+[0m  [2m248:3[22m   [31merror[39m  'test' is not defined       [2mno-undef[22m[0m
+[0m  [2m253:5[22m   [31merror[39m  'expect' is not defined     [2mno-undef[22m[0m
+[0m  [2m256:3[22m   [31merror[39m  'test' is not defined       [2mno-undef[22m[0m
+[0m  [2m261:5[22m   [31merror[39m  'expect' is not defined     [2mno-undef[22m[0m
+[0m  [2m264:3[22m   [31merror[39m  'test' is not defined       [2mno-undef[22m[0m
+[0m  [2m271:5[22m   [31merror[39m  'expect' is not defined     [2mno-undef[22m[0m
+[0m  [2m278:5[22m   [31merror[39m  'expect' is not defined     [2mno-undef[22m[0m
+[0m  [2m281:3[22m   [31merror[39m  'test' is not defined       [2mno-undef[22m[0m
+[0m  [2m285:5[22m   [31merror[39m  'expect' is not defined     [2mno-undef[22m[0m
+[0m  [2m288:3[22m   [31merror[39m  'test' is not defined       [2mno-undef[22m[0m
+[0m  [2m291:5[22m   [31merror[39m  'expect' is not defined     [2mno-undef[22m[0m
+[0m  [2m296:5[22m   [31merror[39m  'expect' is not defined     [2mno-undef[22m[0m
+[0m[0m
+[0m[4mF:\#projects\smp\js-anti-pattern-catcher\testFiles\vuepress-master\packages\@vuepress\core\lib\node\__tests__\prepare\util.js[24m[0m
+[0m  [2m15:36[22m  [31merror[39m  Redundant use of `await` on a return value  [2mno-return-await[22m[0m
+[0m[0m
+[0m[4mF:\#projects\smp\js-anti-pattern-catcher\testFiles\vuepress-master\packages\@vuepress\core\lib\node\__tests__\theme-api\index.spec.js[24m[0m
+[0m   [2m1:1[22m   [31merror[39m  'jest' is not defined                           [2mno-undef[22m[0m
+[0m   [2m2:1[22m   [31merror[39m  'jest' is not defined                           [2mno-undef[22m[0m
+[0m  [2m21:1[22m   [31merror[39m  'describe' is not defined                       [2mno-undef[22m[0m
+[0m  [2m22:3[22m   [31merror[39m  'test' is not defined                           [2mno-undef[22m[0m
+[0m  [2m22:27[22m  [31merror[39m  Async arrow function has no 'await' expression  [2mrequire-await[22m[0m
+[0m[0m
+[0m[4mF:\#projects\smp\js-anti-pattern-catcher\testFiles\vuepress-master\packages\@vuepress\core\lib\node\build\index.js[24m[0m
+[0m   [2m42:18[22m  [31merror[39m  Unexpected string concatenation                                            [2mprefer-template[22m[0m
+[0m   [2m53:16[22m  [31merror[39m  Async method 'render' has too many statements (25). Maximum allowed is 20  [2mmax-statements[22m[0m
+[0m   [2m99:51[22m  [31merror[39m  No magic number: 100000                                                    [2mno-magic-numbers[22m[0m
+[0m  [2m101:28[22m  [31merror[39m  Unexpected `await` inside a loop                                           [2mno-await-in-loop[22m[0m
+[0m  [2m103:1[22m   [31merror[39m  Expected indentation of 10 spaces but found 8                              [2mindent[22m[0m
+[0m  [2m108:40[22m  [31merror[39m  No magic number: 0                                                         [2mno-magic-numbers[22m[0m
+[0m  [2m109:39[22m  [31merror[39m  No magic number: 0                                                         [2mno-magic-numbers[22m[0m
+[0m  [2m225:12[22m  [31merror[39m  Unexpected string concatenation                                            [2mprefer-template[22m[0m
+[0m  [2m242:37[22m  [31merror[39m  No magic number: 0                                                         [2mno-magic-numbers[22m[0m
+[0m  [2m251:35[22m  [31merror[39m  No magic number: 0                                                         [2mno-magic-numbers[22m[0m
+[0m[0m
+[0m[4mF:\#projects\smp\js-anti-pattern-catcher\testFiles\vuepress-master\packages\@vuepress\core\lib\node\dev\index.js[24m[0m
+[0m  [2m291:43[22m  [31merror[39m  No magic number: 8080  [2mno-magic-numbers[22m[0m
+[0m[0m
+[0m[4mF:\#projects\smp\js-anti-pattern-catcher\testFiles\vuepress-master\packages\@vuepress\core\lib\node\internal-plugins\dataBlock\index.js[24m[0m
+[0m  [2m10:1[22m  [31merror[39m  Expected indentation of 6 spaces but found 8   [2mindent[22m[0m
+[0m  [2m11:1[22m  [31merror[39m  Expected indentation of 6 spaces but found 10  [2mindent[22m[0m
+[0m  [2m12:1[22m  [31merror[39m  Expected indentation of 6 spaces but found 10  [2mindent[22m[0m
+[0m  [2m13:1[22m  [31merror[39m  Expected indentation of 6 spaces but found 12  [2mindent[22m[0m
+[0m[0m
+[0m[4mF:\#projects\smp\js-anti-pattern-catcher\testFiles\vuepress-master\packages\@vuepress\core\lib\node\internal-plugins\frontmatterBlock\index.js[24m[0m
+[0m  [2m10:1[22m  [31merror[39m  Expected indentation of 6 spaces but found 8   [2mindent[22m[0m
+[0m  [2m11:1[22m  [31merror[39m  Expected indentation of 6 spaces but found 10  [2mindent[22m[0m
+[0m  [2m12:1[22m  [31merror[39m  Expected indentation of 6 spaces but found 10  [2mindent[22m[0m
+[0m  [2m13:1[22m  [31merror[39m  Expected indentation of 6 spaces but found 12  [2mindent[22m[0m
+[0m[0m
+[0m[4mF:\#projects\smp\js-anti-pattern-catcher\testFiles\vuepress-master\packages\@vuepress\core\lib\node\internal-plugins\layoutComponents.js[24m[0m
+[0m  [2m8:5[22m  [31merror[39m  Async method 'clientDynamicModules' has no 'await' expression  [2mrequire-await[22m[0m
+[0m[0m
+[0m[4mF:\#projects\smp\js-anti-pattern-catcher\testFiles\vuepress-master\packages\@vuepress\core\lib\node\internal-plugins\pageComponents.js[24m[0m
+[0m  [2m11:5[22m  [31merror[39m  Async method 'clientDynamicModules' has no 'await' expression  [2mrequire-await[22m[0m
+[0m[0m
+[0m[4mF:\#projects\smp\js-anti-pattern-catcher\testFiles\vuepress-master\packages\@vuepress\core\lib\node\internal-plugins\palette\index.js[24m[0m
+[0m  [2m12:15[22m  [31merror[39m  Async method 'ready' has a complexity of 11. Maximum allowed is 10  [2mcomplexity[22m[0m
+[0m  [2m40:26[22m  [31merror[39m  Unexpected string concatenation                                     [2mprefer-template[22m[0m
+[0m  [2m50:24[22m  [31merror[39m  Unexpected string concatenation                                     [2mprefer-template[22m[0m
+[0m[0m
+[0m[4mF:\#projects\smp\js-anti-pattern-catcher\testFiles\vuepress-master\packages\@vuepress\core\lib\node\internal-plugins\rootMixins.js[24m[0m
+[0m  [2m10:3[22m  [31merror[39m  Async method 'clientDynamicModules' has no 'await' expression  [2mrequire-await[22m[0m
+[0m[0m
+[0m[4mF:\#projects\smp\js-anti-pattern-catcher\testFiles\vuepress-master\packages\@vuepress\core\lib\node\internal-plugins\routes.js[24m[0m
+[0m   [2m8:3[22m   [31merror[39m  Async method 'clientDynamicModules' has no 'await' expression  [2mrequire-await[22m[0m
+[0m  [2m66:28[22m  [31merror[39m  Unexpected string concatenation                                [2mprefer-template[22m[0m
+[0m[0m
+[0m[4mF:\#projects\smp\js-anti-pattern-catcher\testFiles\vuepress-master\packages\@vuepress\core\lib\node\internal-plugins\siteData.js[24m[0m
+[0m  [2m8:3[22m   [31merror[39m  Async method 'clientDynamicModules' has no 'await' expression  [2mrequire-await[22m[0m
+[0m  [2m9:85[22m  [31merror[39m  No magic number: 2                                             [2mno-magic-numbers[22m[0m
+[0m[0m
+[0m[4mF:\#projects\smp\js-anti-pattern-catcher\testFiles\vuepress-master\packages\@vuepress\core\lib\node\internal-plugins\style\index.js[24m[0m
+[0m  [2m35:24[22m  [31merror[39m  Unexpected string concatenation  [2mprefer-template[22m[0m
+[0m  [2m46:22[22m  [31merror[39m  Unexpected string concatenation  [2mprefer-template[22m[0m
+[0m[0m
+[0m[4mF:\#projects\smp\js-anti-pattern-catcher\testFiles\vuepress-master\packages\@vuepress\core\lib\node\loadConfig.js[24m[0m
+[0m  [2m58:5[22m  [31merror[39m  Unexpected lexical declaration in case block  [2mno-case-declarations[22m[0m
+[0m[0m
+[0m[4mF:\#projects\smp\js-anti-pattern-catcher\testFiles\vuepress-master\packages\@vuepress\core\lib\node\loadTheme.js[24m[0m
+[0m  [2m55:14[22m  [31merror[39m  Unexpected string concatenation                                              [2mprefer-template[22m[0m
+[0m  [2m73:1[22m   [31merror[39m  Function 'resolveTheme' has too many statements (25). Maximum allowed is 20  [2mmax-statements[22m[0m
+[0m  [2m73:1[22m   [31merror[39m  Function 'resolveTheme' has a complexity of 11. Maximum allowed is 10        [2mcomplexity[22m[0m
+[0m  [2m90:48[22m  [31merror[39m  No magic number: 0                                                           [2mno-magic-numbers[22m[0m
+[0m[0m
+[0m[4mF:\#projects\smp\js-anti-pattern-catcher\testFiles\vuepress-master\packages\@vuepress\core\lib\node\plugin-api\abstract\AsyncOption.js[24m[0m
+[0m  [2m33:15[22m  [31merror[39m  Unexpected `await` inside a loop  [2mno-await-in-loop[22m[0m
+[0m  [2m87:15[22m  [31merror[39m  Unexpected `await` inside a loop  [2mno-await-in-loop[22m[0m
+[0m[0m
+[0m[4mF:\#projects\smp\js-anti-pattern-catcher\testFiles\vuepress-master\packages\@vuepress\core\lib\node\plugin-api\abstract\Option.js[24m[0m
+[0m  [2m43:22[22m  [31merror[39m  No magic number: -1  [2mno-magic-numbers[22m[0m
+[0m  [2m44:32[22m  [31merror[39m  No magic number: 1   [2mno-magic-numbers[22m[0m
+[0m[0m
+[0m[4mF:\#projects\smp\js-anti-pattern-catcher\testFiles\vuepress-master\packages\@vuepress\core\lib\node\plugin-api\index.js[24m[0m
+[0m   [2m98:30[22m  [31merror[39m  No magic number: -1              [2mno-magic-numbers[22m[0m
+[0m   [2m99:50[22m  [31merror[39m  No magic number: 1               [2mno-magic-numbers[22m[0m
+[0m  [2m261:18[22m  [31merror[39m  Unexpected string concatenation  [2mprefer-template[22m[0m
+[0m  [2m276:18[22m  [31merror[39m  Unexpected string concatenation  [2mprefer-template[22m[0m
+[0m[0m
+[0m[4mF:\#projects\smp\js-anti-pattern-catcher\testFiles\vuepress-master\packages\@vuepress\core\lib\node\plugin-api\override\ClientDynamicModulesOption.js[24m[0m
+[0m  [2m19:7[22m  [31merror[39m  Unexpected `await` inside a loop  [2mno-await-in-loop[22m[0m
+[0m[0m
+[0m[4mF:\#projects\smp\js-anti-pattern-catcher\testFiles\vuepress-master\packages\@vuepress\core\lib\node\plugin-api\override\EnhanceAppFilesOption.js[24m[0m
+[0m  [2m21:15[22m  [31merror[39m  Async method 'apply' has too many statements (22). Maximum allowed is 20  [2mmax-statements[22m[0m
+[0m  [2m28:14[22m  [31merror[39m  Redundant use of `await` on a return value                                [2mno-return-await[22m[0m
+[0m  [2m32:13[22m  [31merror[39m  Unexpected string concatenation                                           [2mprefer-template[22m[0m
+[0m  [2m47:22[22m  [31merror[39m  Unexpected `await` inside a loop                                          [2mno-await-in-loop[22m[0m
+[0m  [2m49:22[22m  [31merror[39m  Unexpected `await` inside a loop                                          [2mno-await-in-loop[22m[0m
+[0m  [2m54:27[22m  [31merror[39m  Unexpected `await` inside a loop                                          [2mno-await-in-loop[22m[0m
+[0m  [2m57:24[22m  [31merror[39m  Unexpected `await` inside a loop                                          [2mno-await-in-loop[22m[0m
+[0m  [2m62:24[22m  [31merror[39m  Unexpected `await` inside a loop                                          [2mno-await-in-loop[22m[0m
+[0m  [2m70:13[22m  [31merror[39m  Unexpected string concatenation                                           [2mprefer-template[22m[0m
+[0m[0m
+[0m[4mF:\#projects\smp\js-anti-pattern-catcher\testFiles\vuepress-master\packages\@vuepress\core\lib\node\plugin-api\override\GlobalUIComponentsOption.js[24m[0m
+[0m  [2m17:59[22m  [31merror[39m  No magic number: 2  [2mno-magic-numbers[22m[0m
+[0m[0m
+[0m[4mF:\#projects\smp\js-anti-pattern-catcher\testFiles\vuepress-master\packages\@vuepress\core\lib\node\theme-api\index.js[24m[0m
+[0m  [2m141:29[22m  [31merror[39m  No magic number: 0   [2mno-magic-numbers[22m[0m
+[0m  [2m141:32[22m  [31merror[39m  No magic number: -4  [2mno-magic-numbers[22m[0m
+[0m[0m
+[0m[4mF:\#projects\smp\js-anti-pattern-catcher\testFiles\vuepress-master\packages\@vuepress\core\lib\node\util\index.js[24m[0m
+[0m  [2m14:23[22m  [31merror[39m  No magic number: 0  [2mno-magic-numbers[22m[0m
+[0m  [2m17:21[22m  [31merror[39m  No magic number: 1  [2mno-magic-numbers[22m[0m
+[0m  [2m18:20[22m  [31merror[39m  No magic number: 2  [2mno-magic-numbers[22m[0m
+[0m  [2m63:20[22m  [31merror[39m  No magic number: 1  [2mno-magic-numbers[22m[0m
+[0m  [2m65:20[22m  [31merror[39m  No magic number: 1  [2mno-magic-numbers[22m[0m
+[0m[0m
+[0m[4mF:\#projects\smp\js-anti-pattern-catcher\testFiles\vuepress-master\packages\@vuepress\core\lib\node\webpack\ClientPlugin.js[24m[0m
+[0m  [2m22:24[22m  [31merror[39m  No magic number: 0  [2mno-magic-numbers[22m[0m
+[0m  [2m49:69[22m  [31merror[39m  No magic number: 0  [2mno-magic-numbers[22m[0m
+[0m  [2m63:31[22m  [31merror[39m  No magic number: 1  [2mno-magic-numbers[22m[0m
+[0m  [2m64:28[22m  [31merror[39m  No magic number: 0  [2mno-magic-numbers[22m[0m
+[0m  [2m80:47[22m  [31merror[39m  No magic number: 2  [2mno-magic-numbers[22m[0m
+[0m[0m
+[0m[4mF:\#projects\smp\js-anti-pattern-catcher\testFiles\vuepress-master\packages\@vuepress\core\lib\node\webpack\DevLogPlugin.js[24m[0m
+[0m  [2m27:63[22m  [31merror[39m  No magic number: 0               [2mno-magic-numbers[22m[0m
+[0m  [2m31:9[22m   [31merror[39m  Unexpected string concatenation  [2mprefer-template[22m[0m
+[0m  [2m31:75[22m  [31merror[39m  No magic number: 0               [2mno-magic-numbers[22m[0m
+[0m  [2m31:78[22m  [31merror[39m  No magic number: 6               [2mno-magic-numbers[22m[0m
+[0m[0m
+[0m[4mF:\#projects\smp\js-anti-pattern-catcher\testFiles\vuepress-master\packages\@vuepress\core\lib\node\webpack\createBaseConfig.js[24m[0m
+[0m   [2m13:18[22m  [31merror[39m  Function 'createBaseConfig' has too many statements (51). Maximum allowed is 20  [2mmax-statements[22m[0m
+[0m   [2m13:18[22m  [31merror[39m  Function 'createBaseConfig' has a complexity of 13. Maximum allowed is 10        [2mcomplexity[22m[0m
+[0m   [2m42:1[22m   [31merror[39m  Expected indentation of 4 spaces but found 6                                     [2mindent[22m[0m
+[0m   [2m43:1[22m   [31merror[39m  Expected indentation of 4 spaces but found 6                                     [2mindent[22m[0m
+[0m   [2m44:1[22m   [31merror[39m  Expected indentation of 4 spaces but found 6                                     [2mindent[22m[0m
+[0m   [2m58:1[22m   [31merror[39m  Expected indentation of 4 spaces but found 6                                     [2mindent[22m[0m
+[0m   [2m59:1[22m   [31merror[39m  Expected indentation of 4 spaces but found 6                                     [2mindent[22m[0m
+[0m   [2m60:1[22m   [31merror[39m  Expected indentation of 4 spaces but found 6                                     [2mindent[22m[0m
+[0m   [2m61:1[22m   [31merror[39m  Expected indentation of 4 spaces but found 6                                     [2mindent[22m[0m
+[0m   [2m62:1[22m   [31merror[39m  Expected indentation of 4 spaces but found 6                                     [2mindent[22m[0m
+[0m   [2m63:1[22m   [31merror[39m  Expected indentation of 4 spaces but found 6                                     [2mindent[22m[0m
+[0m   [2m64:1[22m   [31merror[39m  Expected indentation of 4 spaces but found 6                                     [2mindent[22m[0m
+[0m   [2m66:1[22m   [31merror[39m  Expected indentation of 4 spaces but found 6                                     [2mindent[22m[0m
+[0m   [2m67:1[22m   [31merror[39m  Expected indentation of 4 spaces but found 6                                     [2mindent[22m[0m
+[0m   [2m69:1[22m   [31merror[39m  Expected indentation of 4 spaces but found 6                                     [2mindent[22m[0m
+[0m   [2m74:1[22m   [31merror[39m  Expected indentation of 4 spaces but found 6                                     [2mindent[22m[0m
+[0m   [2m84:32[22m  [31merror[39m  Unexpected string concatenation                                                  [2mprefer-template[22m[0m
+[0m   [2m89:1[22m   [31merror[39m  Expected indentation of 6 spaces but found 8                                     [2mindent[22m[0m
+[0m   [2m90:1[22m   [31merror[39m  Expected indentation of 6 spaces but found 8                                     [2mindent[22m[0m
+[0m   [2m91:1[22m   [31merror[39m  Expected indentation of 8 spaces but found 10                                    [2mindent[22m[0m
+[0m   [2m92:1[22m   [31merror[39m  Expected indentation of 8 spaces but found 10                                    [2mindent[22m[0m
+[0m   [2m93:1[22m   [31merror[39m  Expected indentation of 6 spaces but found 8                                     [2mindent[22m[0m
+[0m   [2m97:1[22m   [31merror[39m  Expected indentation of 6 spaces but found 8                                     [2mindent[22m[0m
+[0m   [2m98:1[22m   [31merror[39m  Expected indentation of 6 spaces but found 8                                     [2mindent[22m[0m
+[0m   [2m99:1[22m   [31merror[39m  Expected indentation of 8 spaces but found 10                                    [2mindent[22m[0m
+[0m  [2m100:1[22m   [31merror[39m  Expected indentation of 10 spaces but found 12                                   [2mindent[22m[0m
+[0m  [2m101:1[22m   [31merror[39m  Expected indentation of 8 spaces but found 10                                    [2mindent[22m[0m
+[0m  [2m102:1[22m   [31merror[39m  Expected indentation of 8 spaces but found 10                                    [2mindent[22m[0m
+[0m  [2m103:1[22m   [31merror[39m  Expected indentation of 8 spaces but found 10                                    [2mindent[22m[0m
+[0m  [2m104:1[22m   [31merror[39m  Expected indentation of 6 spaces but found 8                                     [2mindent[22m[0m
+[0m  [2m109:1[22m   [31merror[39m  Expected indentation of 4 spaces but found 6                                     [2mindent[22m[0m
+[0m  [2m115:1[22m   [31merror[39m  Expected indentation of 4 spaces but found 6                                     [2mindent[22m[0m
+[0m  [2m121:1[22m   [31merror[39m  Expected indentation of 4 spaces but found 6                                     [2mindent[22m[0m
+[0m  [2m122:1[22m   [31merror[39m  Expected indentation of 4 spaces but found 6                                     [2mindent[22m[0m
+[0m  [2m128:1[22m   [31merror[39m  Expected indentation of 4 spaces but found 6                                     [2mindent[22m[0m
+[0m  [2m129:1[22m   [31merror[39m  Expected indentation of 4 spaces but found 6                                     [2mindent[22m[0m
+[0m  [2m138:1[22m   [31merror[39m  Expected indentation of 6 spaces but found 8                                     [2mindent[22m[0m
+[0m  [2m139:1[22m   [31merror[39m  Expected indentation of 6 spaces but found 8                                     [2mindent[22m[0m
+[0m  [2m140:1[22m   [31merror[39m  Expected indentation of 8 spaces but found 10                                    [2mindent[22m[0m
+[0m  [2m141:1[22m   [31merror[39m  Expected indentation of 8 spaces but found 10                                    [2mindent[22m[0m
+[0m  [2m142:1[22m   [31merror[39m  Expected indentation of 10 spaces but found 12                                   [2mindent[22m[0m
+[0m  [2m143:1[22m   [31merror[39m  Expected indentation of 8 spaces but found 10                                    [2mindent[22m[0m
+[0m  [2m145:1[22m   [31merror[39m  Expected indentation of 8 spaces but found 10                                    [2mindent[22m[0m
+[0m  [2m146:1[22m   [31merror[39m  Expected indentation of 8 spaces but found 10                                    [2mindent[22m[0m
+[0m  [2m147:1[22m   [31merror[39m  Expected indentation of 10 spaces but found 12                                   [2mindent[22m[0m
+[0m  [2m148:1[22m   [31merror[39m  Expected indentation of 8 spaces but found 10                                    [2mindent[22m[0m
+[0m  [2m150:1[22m   [31merror[39m  Expected indentation of 8 spaces but found 10                                    [2mindent[22m[0m
+[0m  [2m151:1[22m   [31merror[39m  Expected indentation of 8 spaces but found 10                                    [2mindent[22m[0m
+[0m  [2m152:1[22m   [31merror[39m  Expected indentation of 8 spaces but found 10                                    [2mindent[22m[0m
+[0m  [2m153:1[22m   [31merror[39m  Expected indentation of 8 spaces but found 10                                    [2mindent[22m[0m
+[0m  [2m154:1[22m   [31merror[39m  Expected indentation of 8 spaces but found 10                                    [2mindent[22m[0m
+[0m  [2m154:27[22m  [31merror[39m  Unnecessary escape character: \/                                                 [2mno-useless-escape[22m[0m
+[0m  [2m154:34[22m  [31merror[39m  Unnecessary escape character: \/                                                 [2mno-useless-escape[22m[0m
+[0m  [2m154:52[22m  [31merror[39m  Unnecessary escape character: \/                                                 [2mno-useless-escape[22m[0m
+[0m  [2m154:60[22m  [31merror[39m  Unnecessary escape character: \/                                                 [2mno-useless-escape[22m[0m
+[0m  [2m155:1[22m   [31merror[39m  Expected indentation of 10 spaces but found 12                                   [2mindent[22m[0m
+[0m  [2m156:1[22m   [31merror[39m  Expected indentation of 8 spaces but found 10                                    [2mindent[22m[0m
+[0m  [2m158:1[22m   [31merror[39m  Expected indentation of 8 spaces but found 10                                    [2mindent[22m[0m
+[0m  [2m159:1[22m   [31merror[39m  Expected indentation of 8 spaces but found 10                                    [2mindent[22m[0m
+[0m  [2m160:1[22m   [31merror[39m  Expected indentation of 10 spaces but found 12                                   [2mindent[22m[0m
+[0m  [2m161:1[22m   [31merror[39m  Expected indentation of 8 spaces but found 10                                    [2mindent[22m[0m
+[0m  [2m163:1[22m   [31merror[39m  Expected indentation of 8 spaces but found 10                                    [2mindent[22m[0m
+[0m  [2m164:1[22m   [31merror[39m  Expected indentation of 8 spaces but found 10                                    [2mindent[22m[0m
+[0m  [2m165:1[22m   [31merror[39m  Expected indentation of 6 spaces but found 8                                     [2mindent[22m[0m
+[0m  [2m166:1[22m   [31merror[39m  Expected indentation of 6 spaces but found 8                                     [2mindent[22m[0m
+[0m  [2m167:1[22m   [31merror[39m  Expected indentation of 6 spaces but found 10                                    [2mindent[22m[0m
+[0m  [2m168:1[22m   [31merror[39m  Expected indentation of 6 spaces but found 10                                    [2mindent[22m[0m
+[0m  [2m169:1[22m   [31merror[39m  Expected indentation of 8 spaces but found 12                                    [2mindent[22m[0m
+[0m  [2m170:1[22m   [31merror[39m  Expected indentation of 8 spaces but found 12                                    [2mindent[22m[0m
+[0m  [2m171:1[22m   [31merror[39m  Expected indentation of 6 spaces but found 10                                    [2mindent[22m[0m
+[0m  [2m172:1[22m   [31merror[39m  Expected indentation of 6 spaces but found 10                                    [2mindent[22m[0m
+[0m  [2m173:1[22m   [31merror[39m  Expected indentation of 6 spaces but found 8                                     [2mindent[22m[0m
+[0m  [2m174:1[22m   [31merror[39m  Expected indentation of 6 spaces but found 10                                    [2mindent[22m[0m
+[0m  [2m175:1[22m   [31merror[39m  Expected indentation of 6 spaces but found 10                                    [2mindent[22m[0m
+[0m  [2m176:1[22m   [31merror[39m  Expected indentation of 8 spaces but found 12                                    [2mindent[22m[0m
+[0m  [2m177:1[22m   [31merror[39m  Expected indentation of 8 spaces but found 12                                    [2mindent[22m[0m
+[0m  [2m178:1[22m   [31merror[39m  Expected indentation of 8 spaces but found 12                                    [2mindent[22m[0m
+[0m  [2m179:1[22m   [31merror[39m  Expected indentation of 8 spaces but found 12                                    [2mindent[22m[0m
+[0m  [2m180:1[22m   [31merror[39m  Expected indentation of 8 spaces but found 12                                    [2mindent[22m[0m
+[0m  [2m181:1[22m   [31merror[39m  Expected indentation of 8 spaces but found 12                                    [2mindent[22m[0m
+[0m  [2m182:1[22m   [31merror[39m  Expected indentation of 10 spaces but found 14                                   [2mindent[22m[0m
+[0m  [2m183:1[22m   [31merror[39m  Expected indentation of 12 spaces but found 16                                   [2mindent[22m[0m
+[0m  [2m184:1[22m   [31merror[39m  Expected indentation of 14 spaces but found 18                                   [2mindent[22m[0m
+[0m  [2m185:1[22m   [31merror[39m  Expected indentation of 12 spaces but found 16                                   [2mindent[22m[0m
+[0m  [2m186:1[22m   [31merror[39m  Expected indentation of 10 spaces but found 14                                   [2mindent[22m[0m
+[0m  [2m187:1[22m   [31merror[39m  Expected indentation of 8 spaces but found 12                                    [2mindent[22m[0m
+[0m  [2m188:1[22m   [31merror[39m  Expected indentation of 6 spaces but found 10                                    [2mindent[22m[0m
+[0m  [2m193:1[22m   [31merror[39m  Expected indentation of 4 spaces but found 6                                     [2mindent[22m[0m
+[0m  [2m194:1[22m   [31merror[39m  Expected indentation of 4 spaces but found 6                                     [2mindent[22m[0m
+[0m  [2m195:1[22m   [31merror[39m  Expected indentation of 4 spaces but found 8                                     [2mindent[22m[0m
+[0m  [2m196:1[22m   [31merror[39m  Expected indentation of 4 spaces but found 8                                     [2mindent[22m[0m
+[0m  [2m197:1[22m   [31merror[39m  Expected indentation of 6 spaces but found 10                                    [2mindent[22m[0m
+[0m  [2m198:1[22m   [31merror[39m  Expected indentation of 6 spaces but found 10                                    [2mindent[22m[0m
+[0m  [2m199:1[22m   [31merror[39m  Expected indentation of 4 spaces but found 8                                     [2mindent[22m[0m
+[0m  [2m205:1[22m   [31merror[39m  Expected indentation of 4 spaces but found 6                                     [2mindent[22m[0m
+[0m  [2m206:1[22m   [31merror[39m  Expected indentation of 4 spaces but found 6                                     [2mindent[22m[0m
+[0m  [2m207:1[22m   [31merror[39m  Expected indentation of 4 spaces but found 8                                     [2mindent[22m[0m
+[0m  [2m208:1[22m   [31merror[39m  Expected indentation of 4 spaces but found 8                                     [2mindent[22m[0m
+[0m  [2m209:1[22m   [31merror[39m  Expected indentation of 6 spaces but found 10                                    [2mindent[22m[0m
+[0m  [2m210:1[22m   [31merror[39m  Expected indentation of 4 spaces but found 8                                     [2mindent[22m[0m
+[0m  [2m214:1[22m   [31merror[39m  Expected indentation of 4 spaces but found 6                                     [2mindent[22m[0m
+[0m  [2m215:1[22m   [31merror[39m  Expected indentation of 4 spaces but found 6                                     [2mindent[22m[0m
+[0m  [2m216:1[22m   [31merror[39m  Expected indentation of 4 spaces but found 8                                     [2mindent[22m[0m
+[0m  [2m217:1[22m   [31merror[39m  Expected indentation of 4 spaces but found 8                                     [2mindent[22m[0m
+[0m  [2m218:1[22m   [31merror[39m  Expected indentation of 6 spaces but found 10                                    [2mindent[22m[0m
+[0m  [2m219:1[22m   [31merror[39m  Expected indentation of 6 spaces but found 10                                    [2mindent[22m[0m
+[0m  [2m220:1[22m   [31merror[39m  Expected indentation of 4 spaces but found 8                                     [2mindent[22m[0m
+[0m  [2m224:1[22m   [31merror[39m  Expected indentation of 4 spaces but found 6                                     [2mindent[22m[0m
+[0m  [2m225:1[22m   [31merror[39m  Expected indentation of 4 spaces but found 6                                     [2mindent[22m[0m
+[0m  [2m226:1[22m   [31merror[39m  Expected indentation of 4 spaces but found 8                                     [2mindent[22m[0m
+[0m  [2m227:1[22m   [31merror[39m  Expected indentation of 4 spaces but found 8                                     [2mindent[22m[0m
+[0m  [2m228:1[22m   [31merror[39m  Expected indentation of 6 spaces but found 10                                    [2mindent[22m[0m
+[0m  [2m229:1[22m   [31merror[39m  Expected indentation of 6 spaces but found 10                                    [2mindent[22m[0m
+[0m  [2m230:1[22m   [31merror[39m  Expected indentation of 4 spaces but found 8                                     [2mindent[22m[0m
+[0m  [2m328:19[22m  [31merror[39m  Empty block statement                                                            [2mno-empty[22m[0m
+[0m[0m
+[0m[4mF:\#projects\smp\js-anti-pattern-catcher\testFiles\vuepress-master\packages\@vuepress\core\lib\node\webpack\createClientConfig.js[24m[0m
+[0m  [2m16:1[22m  [31merror[39m  Expected indentation of 4 spaces but found 6  [2mindent[22m[0m
+[0m[0m
+[0m[4mF:\#projects\smp\js-anti-pattern-catcher\testFiles\vuepress-master\packages\@vuepress\core\lib\node\webpack\createServerConfig.js[24m[0m
+[0m  [2m27:1[22m  [31merror[39m  Expected indentation of 4 spaces but found 6  [2mindent[22m[0m
+[0m[0m
+[0m[4mF:\#projects\smp\js-anti-pattern-catcher\testFiles\vuepress-master\packages\@vuepress\markdown-loader\index.js[24m[0m
+[0m   [2m20:18[22m  [31merror[39m  Function has too many statements (28). Maximum allowed is 20  [2mmax-statements[22m[0m
+[0m   [2m20:18[22m  [31merror[39m  Function has a complexity of 13. Maximum allowed is 10        [2mcomplexity[22m[0m
+[0m   [2m90:23[22m  [31merror[39m  Unexpected string concatenation                               [2mprefer-template[22m[0m
+[0m   [2m94:23[22m  [31merror[39m  Unexpected string concatenation                               [2mprefer-template[22m[0m
+[0m  [2m111:5[22m   [31merror[39m  Unexpected string concatenation                               [2mprefer-template[22m[0m
+[0m[0m
+[0m[4mF:\#projects\smp\js-anti-pattern-catcher\testFiles\vuepress-master\packages\@vuepress\markdown\__tests__\highlight.spec.js[24m[0m
+[0m   [2m8:1[22m  [31merror[39m  'describe' is not defined  [2mno-undef[22m[0m
+[0m   [2m9:3[22m  [31merror[39m  'test' is not defined      [2mno-undef[22m[0m
+[0m  [2m13:5[22m  [31merror[39m  'expect' is not defined    [2mno-undef[22m[0m
+[0m  [2m14:5[22m  [31merror[39m  'expect' is not defined    [2mno-undef[22m[0m
+[0m[0m
+[0m[4mF:\#projects\smp\js-anti-pattern-catcher\testFiles\vuepress-master\packages\@vuepress\markdown\__tests__\highlightLines.spec.js[24m[0m
+[0m   [2m8:1[22m  [31merror[39m  'describe' is not defined  [2mno-undef[22m[0m
+[0m   [2m9:3[22m  [31merror[39m  'test' is not defined      [2mno-undef[22m[0m
+[0m  [2m13:5[22m  [31merror[39m  'expect' is not defined    [2mno-undef[22m[0m
+[0m  [2m16:3[22m  [31merror[39m  'test' is not defined      [2mno-undef[22m[0m
+[0m  [2m19:5[22m  [31merror[39m  'expect' is not defined    [2mno-undef[22m[0m
+[0m  [2m22:3[22m  [31merror[39m  'test' is not defined      [2mno-undef[22m[0m
+[0m  [2m25:5[22m  [31merror[39m  'expect' is not defined    [2mno-undef[22m[0m
+[0m[0m
+[0m[4mF:\#projects\smp\js-anti-pattern-catcher\testFiles\vuepress-master\packages\@vuepress\markdown\__tests__\hoist.spec.js[24m[0m
+[0m  [2m11:1[22m  [31merror[39m  'describe' is not defined  [2mno-undef[22m[0m
+[0m  [2m12:3[22m  [31merror[39m  'test' is not defined      [2mno-undef[22m[0m
+[0m  [2m15:5[22m  [31merror[39m  'expect' is not defined    [2mno-undef[22m[0m
+[0m  [2m18:3[22m  [31merror[39m  'test' is not defined      [2mno-undef[22m[0m
+[0m  [2m21:5[22m  [31merror[39m  'expect' is not defined    [2mno-undef[22m[0m
+[0m  [2m22:5[22m  [31merror[39m  'expect' is not defined    [2mno-undef[22m[0m
+[0m[0m
+[0m[4mF:\#projects\smp\js-anti-pattern-catcher\testFiles\vuepress-master\packages\@vuepress\markdown\__tests__\lineNumers.spec.js[24m[0m
+[0m  [2m12:1[22m  [31merror[39m  'describe' is not defined  [2mno-undef[22m[0m
+[0m  [2m13:3[22m  [31merror[39m  'test' is not defined      [2mno-undef[22m[0m
+[0m  [2m16:5[22m  [31merror[39m  'expect' is not defined    [2mno-undef[22m[0m
+[0m  [2m19:3[22m  [31merror[39m  'test' is not defined      [2mno-undef[22m[0m
+[0m  [2m22:5[22m  [31merror[39m  'expect' is not defined    [2mno-undef[22m[0m
+[0m[0m
+[0m[4mF:\#projects\smp\js-anti-pattern-catcher\testFiles\vuepress-master\packages\@vuepress\markdown\__tests__\link.spec.js[24m[0m
+[0m  [2m63:1[22m   [31merror[39m  'describe' is not defined  [2mno-undef[22m[0m
+[0m  [2m64:3[22m   [31merror[39m  'test' is not defined      [2mno-undef[22m[0m
+[0m  [2m69:7[22m   [31merror[39m  'expect' is not defined    [2mno-undef[22m[0m
+[0m  [2m73:3[22m   [31merror[39m  'test' is not defined      [2mno-undef[22m[0m
+[0m  [2m76:7[22m   [31merror[39m  'expect' is not defined    [2mno-undef[22m[0m
+[0m  [2m80:3[22m   [31merror[39m  'test' is not defined      [2mno-undef[22m[0m
+[0m  [2m91:7[22m   [31merror[39m  'expect' is not defined    [2mno-undef[22m[0m
+[0m  [2m98:22[22m  [31merror[39m  No magic number: 0         [2mno-magic-numbers[22m[0m
+[0m[0m
+[0m[4mF:\#projects\smp\js-anti-pattern-catcher\testFiles\vuepress-master\packages\@vuepress\markdown\__tests__\preWrapper.spec.js[24m[0m
+[0m   [2m8:1[22m  [31merror[39m  'describe' is not defined  [2mno-undef[22m[0m
+[0m   [2m9:3[22m  [31merror[39m  'test' is not defined      [2mno-undef[22m[0m
+[0m  [2m13:5[22m  [31merror[39m  'expect' is not defined    [2mno-undef[22m[0m
+[0m  [2m14:5[22m  [31merror[39m  'expect' is not defined    [2mno-undef[22m[0m
+[0m  [2m17:3[22m  [31merror[39m  'test' is not defined      [2mno-undef[22m[0m
+[0m  [2m21:5[22m  [31merror[39m  'expect' is not defined    [2mno-undef[22m[0m
+[0m  [2m22:5[22m  [31merror[39m  'expect' is not defined    [2mno-undef[22m[0m
+[0m  [2m25:3[22m  [31merror[39m  'test' is not defined      [2mno-undef[22m[0m
+[0m  [2m28:5[22m  [31merror[39m  'expect' is not defined    [2mno-undef[22m[0m
+[0m[0m
+[0m[4mF:\#projects\smp\js-anti-pattern-catcher\testFiles\vuepress-master\packages\@vuepress\markdown\__tests__\slugify.spec.js[24m[0m
+[0m  [2m21:1[22m   [31merror[39m  'describe' is not defined  [2mno-undef[22m[0m
+[0m  [2m22:3[22m   [31merror[39m  'test' is not defined      [2mno-undef[22m[0m
+[0m  [2m25:7[22m   [31merror[39m  'expect' is not defined    [2mno-undef[22m[0m
+[0m  [2m31:45[22m  [31merror[39m  No magic number: 1         [2mno-magic-numbers[22m[0m
+[0m[0m
+[0m[4mF:\#projects\smp\js-anti-pattern-catcher\testFiles\vuepress-master\packages\@vuepress\markdown\__tests__\snippet.spec.js[24m[0m
+[0m   [2m9:1[22m  [31merror[39m  'describe' is not defined  [2mno-undef[22m[0m
+[0m  [2m10:3[22m  [31merror[39m  'test' is not defined      [2mno-undef[22m[0m
+[0m  [2m13:5[22m  [31merror[39m  'expect' is not defined    [2mno-undef[22m[0m
+[0m  [2m16:3[22m  [31merror[39m  'test' is not defined      [2mno-undef[22m[0m
+[0m  [2m19:5[22m  [31merror[39m  'expect' is not defined    [2mno-undef[22m[0m
+[0m  [2m22:3[22m  [31merror[39m  'test' is not defined      [2mno-undef[22m[0m
+[0m  [2m25:5[22m  [31merror[39m  'expect' is not defined    [2mno-undef[22m[0m
+[0m  [2m28:3[22m  [31merror[39m  'test' is not defined      [2mno-undef[22m[0m
+[0m  [2m31:5[22m  [31merror[39m  'expect' is not defined    [2mno-undef[22m[0m
+[0m  [2m34:3[22m  [31merror[39m  'test' is not defined      [2mno-undef[22m[0m
+[0m  [2m37:5[22m  [31merror[39m  'expect' is not defined    [2mno-undef[22m[0m
+[0m  [2m40:3[22m  [31merror[39m  'test' is not defined      [2mno-undef[22m[0m
+[0m  [2m43:5[22m  [31merror[39m  'expect' is not defined    [2mno-undef[22m[0m
+[0m  [2m46:3[22m  [31merror[39m  'test' is not defined      [2mno-undef[22m[0m
+[0m  [2m49:5[22m  [31merror[39m  'expect' is not defined    [2mno-undef[22m[0m
+[0m  [2m52:3[22m  [31merror[39m  'test' is not defined      [2mno-undef[22m[0m
+[0m  [2m55:5[22m  [31merror[39m  'expect' is not defined    [2mno-undef[22m[0m
+[0m  [2m58:3[22m  [31merror[39m  'test' is not defined      [2mno-undef[22m[0m
+[0m  [2m61:5[22m  [31merror[39m  'expect' is not defined    [2mno-undef[22m[0m
+[0m[0m
+[0m[4mF:\#projects\smp\js-anti-pattern-catcher\testFiles\vuepress-master\packages\@vuepress\markdown\index.js[24m[0m
+[0m   [2m53:1[22m   [31merror[39m  Expected indentation of 4 spaces but found 6  [2mindent[22m[0m
+[0m   [2m54:1[22m   [31merror[39m  Expected indentation of 4 spaces but found 6  [2mindent[22m[0m
+[0m   [2m55:1[22m   [31merror[39m  Expected indentation of 4 spaces but found 6  [2mindent[22m[0m
+[0m   [2m58:1[22m   [31merror[39m  Expected indentation of 4 spaces but found 6  [2mindent[22m[0m
+[0m   [2m59:1[22m   [31merror[39m  Expected indentation of 4 spaces but found 6  [2mindent[22m[0m
+[0m   [2m62:1[22m   [31merror[39m  Expected indentation of 4 spaces but found 6  [2mindent[22m[0m
+[0m   [2m63:1[22m   [31merror[39m  Expected indentation of 4 spaces but found 6  [2mindent[22m[0m
+[0m   [2m66:1[22m   [31merror[39m  Expected indentation of 4 spaces but found 6  [2mindent[22m[0m
+[0m   [2m67:1[22m   [31merror[39m  Expected indentation of 4 spaces but found 6  [2mindent[22m[0m
+[0m   [2m70:1[22m   [31merror[39m  Expected indentation of 4 spaces but found 6  [2mindent[22m[0m
+[0m   [2m71:1[22m   [31merror[39m  Expected indentation of 4 spaces but found 6  [2mindent[22m[0m
+[0m   [2m74:1[22m   [31merror[39m  Expected indentation of 4 spaces but found 6  [2mindent[22m[0m
+[0m   [2m75:1[22m   [31merror[39m  Expected indentation of 6 spaces but found 8  [2mindent[22m[0m
+[0m   [2m76:1[22m   [31merror[39m  Expected indentation of 6 spaces but found 8  [2mindent[22m[0m
+[0m   [2m77:1[22m   [31merror[39m  Expected indentation of 4 spaces but found 6  [2mindent[22m[0m
+[0m   [2m78:1[22m   [31merror[39m  Expected indentation of 4 spaces but found 6  [2mindent[22m[0m
+[0m   [2m81:1[22m   [31merror[39m  Expected indentation of 4 spaces but found 6  [2mindent[22m[0m
+[0m   [2m82:1[22m   [31merror[39m  Expected indentation of 4 spaces but found 6  [2mindent[22m[0m
+[0m   [2m85:1[22m   [31merror[39m  Expected indentation of 4 spaces but found 6  [2mindent[22m[0m
+[0m   [2m86:1[22m   [31merror[39m  Expected indentation of 4 spaces but found 6  [2mindent[22m[0m
+[0m   [2m89:1[22m   [31merror[39m  Expected indentation of 4 spaces but found 6  [2mindent[22m[0m
+[0m   [2m90:1[22m   [31merror[39m  Expected indentation of 6 spaces but found 8  [2mindent[22m[0m
+[0m   [2m91:1[22m   [31merror[39m  Expected indentation of 6 spaces but found 8  [2mindent[22m[0m
+[0m   [2m92:1[22m   [31merror[39m  Expected indentation of 6 spaces but found 8  [2mindent[22m[0m
+[0m   [2m93:1[22m   [31merror[39m  Expected indentation of 6 spaces but found 8  [2mindent[22m[0m
+[0m   [2m94:1[22m   [31merror[39m  Expected indentation of 4 spaces but found 6  [2mindent[22m[0m
+[0m   [2m95:1[22m   [31merror[39m  Expected indentation of 4 spaces but found 6  [2mindent[22m[0m
+[0m   [2m98:1[22m   [31merror[39m  Expected indentation of 4 spaces but found 6  [2mindent[22m[0m
+[0m   [2m99:1[22m   [31merror[39m  Expected indentation of 6 spaces but found 8  [2mindent[22m[0m
+[0m  [2m100:1[22m   [31merror[39m  Expected indentation of 6 spaces but found 8  [2mindent[22m[0m
+[0m  [2m100:24[22m  [31merror[39m  No magic number: 2                            [2mno-magic-numbers[22m[0m
+[0m  [2m100:27[22m  [31merror[39m  No magic number: 3                            [2mno-magic-numbers[22m[0m
+[0m  [2m101:1[22m   [31merror[39m  Expected indentation of 6 spaces but found 8  [2mindent[22m[0m
+[0m  [2m102:1[22m   [31merror[39m  Expected indentation of 4 spaces but found 6  [2mindent[22m[0m
+[0m  [2m103:1[22m   [31merror[39m  Expected indentation of 4 spaces but found 6  [2mindent[22m[0m
+[0m  [2m108:1[22m   [31merror[39m  Expected indentation of 6 spaces but found 8  [2mindent[22m[0m
+[0m  [2m152:34[22m  [31merror[39m  No magic number: 0                            [2mno-magic-numbers[22m[0m
+[0m[0m
+[0m[4mF:\#projects\smp\js-anti-pattern-catcher\testFiles\vuepress-master\packages\@vuepress\markdown\lib\component.js[24m[0m
+[0m  [2m18:10[22m  [31merror[39m  Unnecessary escape character: \-                                          [2mno-useless-escape[22m[0m
+[0m  [2m19:15[22m  [31merror[39m  Unexpected string concatenation                                           [2mprefer-template[22m[0m
+[0m  [2m20:15[22m  [31merror[39m  Unexpected string concatenation                                           [2mprefer-template[22m[0m
+[0m  [2m27:1[22m   [31merror[39m  Function 'htmlBlock' has too many statements (34). Maximum allowed is 20  [2mmax-statements[22m[0m
+[0m  [2m27:1[22m   [31merror[39m  Function 'htmlBlock' has a complexity of 13. Maximum allowed is 10        [2mcomplexity[22m[0m
+[0m  [2m33:52[22m  [31merror[39m  No magic number: 4                                                        [2mno-magic-numbers[22m[0m
+[0m  [2m37:37[22m  [31merror[39m  No magic number: 0x3C                                                     [2mno-magic-numbers[22m[0m
+[0m  [2m41:12[22m  [31merror[39m  No magic number: 0                                                        [2mno-magic-numbers[22m[0m
+[0m  [2m42:27[22m  [31merror[39m  No magic number: 0                                                        [2mno-magic-numbers[22m[0m
+[0m  [2m51:30[22m  [31merror[39m  No magic number: 2                                                        [2mno-magic-numbers[22m[0m
+[0m  [2m54:26[22m  [31merror[39m  No magic number: 1                                                        [2mno-magic-numbers[22m[0m
+[0m  [2m58:26[22m  [31merror[39m  No magic number: 1                                                        [2mno-magic-numbers[22m[0m
+[0m  [2m66:29[22m  [31merror[39m  No magic number: 1                                                        [2mno-magic-numbers[22m[0m
+[0m  [2m67:33[22m  [31merror[39m  No magic number: 0                                                        [2mno-magic-numbers[22m[0m
+[0m  [2m75:46[22m  [31merror[39m  No magic number: 0                                                        [2mno-magic-numbers[22m[0m
+[0m[0m
+[0m[4mF:\#projects\smp\js-anti-pattern-catcher\testFiles\vuepress-master\packages\@vuepress\markdown\lib\highlightLines.js[24m[0m
+[0m  [2m22:44[22m  [31merror[39m  No magic number: 1  [2mno-magic-numbers[22m[0m
+[0m  [2m33:34[22m  [31merror[39m  No magic number: 1  [2mno-magic-numbers[22m[0m
+[0m[0m
+[0m[4mF:\#projects\smp\js-anti-pattern-catcher\testFiles\vuepress-master\packages\@vuepress\markdown\lib\lineNumbers.js[24m[0m
+[0m  [2m14:54[22m  [31merror[39m  No magic number: 1  [2mno-magic-numbers[22m[0m
+[0m  [2m15:66[22m  [31merror[39m  No magic number: 1  [2mno-magic-numbers[22m[0m
+[0m[0m
+[0m[4mF:\#projects\smp\js-anti-pattern-catcher\testFiles\vuepress-master\packages\@vuepress\markdown\lib\link.js[24m[0m
+[0m  [2m17:22[22m  [31merror[39m  No magic number: 0               [2mno-magic-numbers[22m[0m
+[0m  [2m19:25[22m  [31merror[39m  No magic number: 1               [2mno-magic-numbers[22m[0m
+[0m  [2m38:10[22m  [31merror[39m  No magic number: 0               [2mno-magic-numbers[22m[0m
+[0m  [2m39:19[22m  [31merror[39m  No magic number: 1               [2mno-magic-numbers[22m[0m
+[0m  [2m48:23[22m  [31merror[39m  Unexpected string concatenation  [2mprefer-template[22m[0m
+[0m  [2m63:10[22m  [31merror[39m  No magic number: 1               [2mno-magic-numbers[22m[0m
+[0m  [2m83:14[22m  [31merror[39m  Unexpected string concatenation  [2mprefer-template[22m[0m
+[0m  [2m95:10[22m  [31merror[39m  Unexpected string concatenation  [2mprefer-template[22m[0m
+[0m[0m
+[0m[4mF:\#projects\smp\js-anti-pattern-catcher\testFiles\vuepress-master\packages\@vuepress\markdown\lib\preWrapper.js[24m[0m
+[0m  [2m15:50[22m  [31merror[39m  Unnecessary escape character: \"  [2mno-useless-escape[22m[0m
+[0m[0m
+[0m[4mF:\#projects\smp\js-anti-pattern-catcher\testFiles\vuepress-master\packages\@vuepress\markdown\lib\snippet.js[24m[0m
+[0m    [2m8:48[22m   [31merror[39m  No magic number: 1                                                     [2mno-magic-numbers[22m[0m
+[0m   [2m12:24[22m   [31merror[39m  No magic number: 0                                                     [2mno-magic-numbers[22m[0m
+[0m   [2m59:28[22m   [31merror[39m  No magic number: 1                                                     [2mno-magic-numbers[22m[0m
+[0m  [2m112:3[22m    [31merror[39m  Function 'parser' has too many statements (22). Maximum allowed is 20  [2mmax-statements[22m[0m
+[0m  [2m113:31[22m   [31merror[39m  No magic number: 0                                                     [2mno-magic-numbers[22m[0m
+[0m  [2m118:54[22m   [31merror[39m  No magic number: 4                                                     [2mno-magic-numbers[22m[0m
+[0m  [2m122:25[22m   [31merror[39m  No magic number: 3                                                     [2mno-magic-numbers[22m[0m
+[0m  [2m131:25[22m   [31merror[39m  No magic number: 3                                                     [2mno-magic-numbers[22m[0m
+[0m  [2m143:111[22m  [31merror[39m  No magic number: 1                                                     [2mno-magic-numbers[22m[0m
+[0m  [2m145:30[22m   [31merror[39m  No magic number: 1                                                     [2mno-magic-numbers[22m[0m
+[0m  [2m147:47[22m   [31merror[39m  No magic number: 0                                                     [2mno-magic-numbers[22m[0m
+[0m  [2m151:41[22m   [31merror[39m  No magic number: 1                                                     [2mno-magic-numbers[22m[0m
+[0m[0m
+[0m[4mF:\#projects\smp\js-anti-pattern-catcher\testFiles\vuepress-master\packages\@vuepress\plugin-active-header-links\clientRootMixin.js[24m[0m
+[0m   [2m7:5[22m   [31merror[39m  'window' is not defined                                                                       [2mno-undef[22m[0m
+[0m  [2m13:8[22m   [31merror[39m  No magic number: 300                                                                          [2mno-magic-numbers[22m[0m
+[0m  [2m15:19[22m  [31merror[39m  Method 'setActiveHash' has a complexity of 11. Maximum allowed is 10                          [2mcomplexity[22m[0m
+[0m  [2m16:42[22m  [31merror[39m  'document' is not defined                                                                     [2mno-undef[22m[0m
+[0m  [2m17:37[22m  [31merror[39m  'document' is not defined                                                                     [2mno-undef[22m[0m
+[0m  [2m21:9[22m   [31merror[39m  'window' is not defined                                                                       [2mno-undef[22m[0m
+[0m  [2m22:9[22m   [31merror[39m  'document' is not defined                                                                     [2mno-undef[22m[0m
+[0m  [2m23:9[22m   [31merror[39m  'document' is not defined                                                                     [2mno-undef[22m[0m
+[0m  [2m27:9[22m   [31merror[39m  'document' is not defined                                                                     [2mno-undef[22m[0m
+[0m  [2m28:9[22m   [31merror[39m  'document' is not defined                                                                     [2mno-undef[22m[0m
+[0m  [2m31:23[22m  [31merror[39m  'window' is not defined                                                                       [2mno-undef[22m[0m
+[0m  [2m35:40[22m  [31merror[39m  No magic number: 1                                                                            [2mno-magic-numbers[22m[0m
+[0m  [2m37:32[22m  [31merror[39m  No magic number: 0                                                                            [2mno-magic-numbers[22m[0m
+[0m  [2m37:34[22m  [31merror[39m  Unexpected mix of '&&' and '||'. Use parentheses to clarify the intended order of operations  [2mno-mixed-operators[22m[0m
+[0m  [2m37:51[22m  [31merror[39m  No magic number: 0                                                                            [2mno-magic-numbers[22m[0m
+[0m  [2m38:11[22m  [31merror[39m  Unexpected mix of '&&' and '||'. Use parentheses to clarify the intended order of operations  [2mno-mixed-operators[22m[0m
+[0m  [2m38:61[22m  [31merror[39m  No magic number: 10                                                                           [2mno-magic-numbers[22m[0m
+[0m  [2m39:81[22m  [31merror[39m  No magic number: 10                                                                           [2mno-magic-numbers[22m[0m
+[0m  [2m46:30[22m  [31merror[39m  No magic number: 1                                                                            [2mno-magic-numbers[22m[0m
+[0m  [2m66:5[22m   [31merror[39m  'window' is not defined                                                                       [2mno-undef[22m[0m
+[0m[0m
+[0m[4mF:\#projects\smp\js-anti-pattern-catcher\testFiles\vuepress-master\packages\@vuepress\plugin-back-to-top\enhanceAppFile.js[24m[0m
+[0m  [2m4:3[22m  [31merror[39m  Definition for rule 'vue/match-component-file-name' was not found  [2mvue/match-component-file-name[22m[0m
+[0m[0m
+[0m[4mF:\#projects\smp\js-anti-pattern-catcher\testFiles\vuepress-master\packages\@vuepress\plugin-google-analytics\enhanceAppFile.js[24m[0m
+[0m  [2m11:16[22m  [31merror[39m  No magic number: 1         [2mno-magic-numbers[22m[0m
+[0m  [2m13:37[22m  [31merror[39m  No magic number: 0         [2mno-magic-numbers[22m[0m
+[0m  [2m17:8[22m   [31merror[39m  'window' is not defined    [2mno-undef[22m[0m
+[0m  [2m17:16[22m  [31merror[39m  'document' is not defined  [2mno-undef[22m[0m
+[0m[0m
+[0m[4mF:\#projects\smp\js-anti-pattern-catcher\testFiles\vuepress-master\packages\@vuepress\plugin-last-updated\index.js[24m[0m
+[0m  [2m33:35[22m  [31merror[39m  No magic number: 1000  [2mno-magic-numbers[22m[0m
+[0m[0m
+[0m[4mF:\#projects\smp\js-anti-pattern-catcher\testFiles\vuepress-master\packages\@vuepress\plugin-medium-zoom\clientRootMixin.js[24m[0m
+[0m  [2m24:10[22m  [31merror[39m  No magic number: 1000  [2mno-magic-numbers[22m[0m
+[0m[0m
+[0m[4mF:\#projects\smp\js-anti-pattern-catcher\testFiles\vuepress-master\packages\@vuepress\plugin-pwa\lib\enhanceAppFile.js[24m[0m
+[0m  [2m8:3[22m  [31merror[39m  Definition for rule 'vue/match-component-file-name' was not found  [2mvue/match-component-file-name[22m[0m
+[0m[0m
+[0m[4mF:\#projects\smp\js-anti-pattern-catcher\testFiles\vuepress-master\packages\@vuepress\plugin-pwa\lib\skip-waiting.js[24m[0m
+[0m  [2m1:1[22m   [31merror[39m  'addEventListener' is not defined  [2mno-undef[22m[0m
+[0m  [2m2:33[22m  [31merror[39m  No magic number: 0                 [2mno-magic-numbers[22m[0m
+[0m  [2m6:7[22m   [31merror[39m  'self' is not defined              [2mno-undef[22m[0m
+[0m[0m
+[0m[4mF:\#projects\smp\js-anti-pattern-catcher\testFiles\vuepress-master\packages\@vuepress\plugin-register-components\index.js[24m[0m
+[0m  [2m11:85[22m  [31merror[39m  No magic number: 0                [2mno-magic-numbers[22m[0m
+[0m  [2m11:88[22m  [31merror[39m  No magic number: -4               [2mno-magic-numbers[22m[0m
+[0m  [2m47:21[22m  [31merror[39m  Unexpected `await` inside a loop  [2mno-await-in-loop[22m[0m
+[0m  [2m48:15[22m  [31merror[39m  Unexpected string concatenation   [2mprefer-template[22m[0m
+[0m  [2m54:12[22m  [31merror[39m  Unexpected string concatenation   [2mprefer-template[22m[0m
+[0m[0m
+[0m[4mF:\#projects\smp\js-anti-pattern-catcher\testFiles\vuepress-master\packages\@vuepress\plugin-search\__tests__\matchQuery.spec.js[24m[0m
+[0m   [2m3:1[22m  [31merror[39m  'describe' is not defined  [2mno-undef[22m[0m
+[0m  [2m11:3[22m  [31merror[39m  'test' is not defined      [2mno-undef[22m[0m
+[0m  [2m16:5[22m  [31merror[39m  'expect' is not defined    [2mno-undef[22m[0m
+[0m  [2m19:3[22m  [31merror[39m  'test' is not defined      [2mno-undef[22m[0m
+[0m  [2m24:5[22m  [31merror[39m  'expect' is not defined    [2mno-undef[22m[0m
+[0m  [2m27:3[22m  [31merror[39m  'test' is not defined      [2mno-undef[22m[0m
+[0m  [2m32:5[22m  [31merror[39m  'expect' is not defined    [2mno-undef[22m[0m
+[0m  [2m35:3[22m  [31merror[39m  'test' is not defined      [2mno-undef[22m[0m
+[0m  [2m40:5[22m  [31merror[39m  'expect' is not defined    [2mno-undef[22m[0m
+[0m[0m
+[0m[4mF:\#projects\smp\js-anti-pattern-catcher\testFiles\vuepress-master\packages\@vuepress\plugin-search\index.js[24m[0m
+[0m  [2m13:61[22m  [31merror[39m  No magic number: 5  [2mno-magic-numbers[22m[0m
+[0m[0m
+[0m[4mF:\#projects\smp\js-anti-pattern-catcher\testFiles\vuepress-master\packages\@vuepress\plugin-search\match-query.js[24m[0m
+[0m  [2m33:7[22m   [31merror[39m  Unexpected string concatenation                 [2mprefer-template[22m[0m
+[0m  [2m34:1[22m   [31merror[39m  Expected indentation of 8 spaces but found 6    [2mindent[22m[0m
+[0m  [2m35:1[22m   [31merror[39m  Expected indentation of 10 spaces but found 8   [2mindent[22m[0m
+[0m  [2m35:38[22m  [31merror[39m  No magic number: 1                              [2mno-magic-numbers[22m[0m
+[0m  [2m37:1[22m   [31merror[39m  Expected indentation of 12 spaces but found 10  [2mindent[22m[0m
+[0m  [2m38:1[22m   [31merror[39m  Expected indentation of 10 spaces but found 8   [2mindent[22m[0m
+[0m  [2m40:1[22m   [31merror[39m  Expected indentation of 12 spaces but found 10  [2mindent[22m[0m
+[0m  [2m41:1[22m   [31merror[39m  Expected indentation of 10 spaces but found 8   [2mindent[22m[0m
+[0m  [2m42:1[22m   [31merror[39m  Expected indentation of 8 spaces but found 6    [2mindent[22m[0m
+[0m  [2m43:1[22m   [31merror[39m  Expected indentation of 8 spaces but found 6    [2mindent[22m[0m
+[0m  [2m49:68[22m  [31merror[39m  No magic number: -1                             [2mno-magic-numbers[22m[0m
+[0m[0m
+[0m[4mF:\#projects\smp\js-anti-pattern-catcher\testFiles\vuepress-master\packages\@vuepress\shared-utils\__tests__\deeplyParseHeaders.spec.ts[24m[0m
+[0m   [2m3:1[22m  [31merror[39m  'test' is not defined    [2mno-undef[22m[0m
+[0m  [2m31:5[22m  [31merror[39m  'expect' is not defined  [2mno-undef[22m[0m
+[0m[0m
+[0m[4mF:\#projects\smp\js-anti-pattern-catcher\testFiles\vuepress-master\packages\@vuepress\shared-utils\__tests__\fileToPath.spec.ts[24m[0m
+[0m   [2m3:1[22m  [31merror[39m  'test' is not defined    [2mno-undef[22m[0m
+[0m  [2m11:5[22m  [31merror[39m  'expect' is not defined  [2mno-undef[22m[0m
+[0m  [2m15:1[22m  [31merror[39m  'test' is not defined    [2mno-undef[22m[0m
+[0m  [2m23:5[22m  [31merror[39m  'expect' is not defined  [2mno-undef[22m[0m
+[0m[0m
+[0m[4mF:\#projects\smp\js-anti-pattern-catcher\testFiles\vuepress-master\packages\@vuepress\shared-utils\__tests__\isIndexFile.spec.ts[24m[0m
+[0m   [2m3:1[22m  [31merror[39m  'test' is not defined    [2mno-undef[22m[0m
+[0m  [2m18:5[22m  [31merror[39m  'expect' is not defined  [2mno-undef[22m[0m
+[0m  [2m30:5[22m  [31merror[39m  'expect' is not defined  [2mno-undef[22m[0m
+[0m[0m
+[0m[4mF:\#projects\smp\js-anti-pattern-catcher\testFiles\vuepress-master\packages\@vuepress\shared-utils\__tests__\moduleResolver.spec.ts[24m[0m
+[0m    [2m1:1[22m  [31merror[39m  'jest' is not defined       [2mno-undef[22m[0m
+[0m    [2m2:1[22m  [31merror[39m  'jest' is not defined       [2mno-undef[22m[0m
+[0m    [2m3:1[22m  [31merror[39m  'jest' is not defined       [2mno-undef[22m[0m
+[0m    [2m5:1[22m  [31merror[39m  'jest' is not defined       [2mno-undef[22m[0m
+[0m    [2m6:1[22m  [31merror[39m  'jest' is not defined       [2mno-undef[22m[0m
+[0m    [2m7:1[22m  [31merror[39m  'jest' is not defined       [2mno-undef[22m[0m
+[0m   [2m32:1[22m  [31merror[39m  'beforeAll' is not defined  [2mno-undef[22m[0m
+[0m   [2m36:1[22m  [31merror[39m  'afterAll' is not defined   [2mno-undef[22m[0m
+[0m   [2m40:1[22m  [31merror[39m  'describe' is not defined   [2mno-undef[22m[0m
+[0m   [2m41:3[22m  [31merror[39m  'test' is not defined       [2mno-undef[22m[0m
+[0m   [2m43:5[22m  [31merror[39m  'expect' is not defined     [2mno-undef[22m[0m
+[0m   [2m44:5[22m  [31merror[39m  'expect' is not defined     [2mno-undef[22m[0m
+[0m   [2m47:3[22m  [31merror[39m  'test' is not defined       [2mno-undef[22m[0m
+[0m   [2m49:5[22m  [31merror[39m  'expect' is not defined     [2mno-undef[22m[0m
+[0m   [2m52:5[22m  [31merror[39m  'expect' is not defined     [2mno-undef[22m[0m
+[0m   [2m63:1[22m  [31merror[39m  'describe' is not defined   [2mno-undef[22m[0m
+[0m   [2m66:3[22m  [31merror[39m  'test' is not defined       [2mno-undef[22m[0m
+[0m   [2m75:7[22m  [31merror[39m  'expect' is not defined     [2mno-undef[22m[0m
+[0m   [2m79:3[22m  [31merror[39m  'test' is not defined       [2mno-undef[22m[0m
+[0m   [2m82:5[22m  [31merror[39m  'expect' is not defined     [2mno-undef[22m[0m
+[0m   [2m83:5[22m  [31merror[39m  'expect' is not defined     [2mno-undef[22m[0m
+[0m   [2m86:3[22m  [31merror[39m  'test' is not defined       [2mno-undef[22m[0m
+[0m   [2m89:5[22m  [31merror[39m  'expect' is not defined     [2mno-undef[22m[0m
+[0m   [2m90:5[22m  [31merror[39m  'expect' is not defined     [2mno-undef[22m[0m
+[0m   [2m94:1[22m  [31merror[39m  'describe' is not defined   [2mno-undef[22m[0m
+[0m   [2m97:3[22m  [31merror[39m  'test' is not defined       [2mno-undef[22m[0m
+[0m  [2m102:5[22m  [31merror[39m  'expect' is not defined     [2mno-undef[22m[0m
+[0m  [2m103:5[22m  [31merror[39m  'expect' is not defined     [2mno-undef[22m[0m
+[0m  [2m106:3[22m  [31merror[39m  'test' is not defined       [2mno-undef[22m[0m
+[0m  [2m109:5[22m  [31merror[39m  'expect' is not defined     [2mno-undef[22m[0m
+[0m  [2m110:5[22m  [31merror[39m  'expect' is not defined     [2mno-undef[22m[0m
+[0m  [2m113:3[22m  [31merror[39m  'describe' is not defined   [2mno-undef[22m[0m
+[0m  [2m116:7[22m  [31merror[39m  'test' is not defined       [2mno-undef[22m[0m
+[0m  [2m119:9[22m  [31merror[39m  'expect' is not defined     [2mno-undef[22m[0m
+[0m  [2m124:3[22m  [31merror[39m  'test' is not defined       [2mno-undef[22m[0m
+[0m  [2m127:5[22m  [31merror[39m  'expect' is not defined     [2mno-undef[22m[0m
+[0m  [2m130:3[22m  [31merror[39m  'test' is not defined       [2mno-undef[22m[0m
+[0m  [2m133:5[22m  [31merror[39m  'expect' is not defined     [2mno-undef[22m[0m
+[0m  [2m136:3[22m  [31merror[39m  'test' is not defined       [2mno-undef[22m[0m
+[0m  [2m137:5[22m  [31merror[39m  'expect' is not defined     [2mno-undef[22m[0m
+[0m  [2m141:1[22m  [31merror[39m  'describe' is not defined   [2mno-undef[22m[0m
+[0m  [2m144:3[22m  [31merror[39m  'describe' is not defined   [2mno-undef[22m[0m
+[0m  [2m147:7[22m  [31merror[39m  'test' is not defined       [2mno-undef[22m[0m
+[0m  [2m150:9[22m  [31merror[39m  'expect' is not defined     [2mno-undef[22m[0m
+[0m  [2m155:3[22m  [31merror[39m  'test' is not defined       [2mno-undef[22m[0m
+[0m  [2m157:5[22m  [31merror[39m  'expect' is not defined     [2mno-undef[22m[0m
+[0m  [2m160:3[22m  [31merror[39m  'test' is not defined       [2mno-undef[22m[0m
+[0m  [2m162:5[22m  [31merror[39m  'expect' is not defined     [2mno-undef[22m[0m
+[0m  [2m165:3[22m  [31merror[39m  'test' is not defined       [2mno-undef[22m[0m
+[0m  [2m166:5[22m  [31merror[39m  'expect' is not defined     [2mno-undef[22m[0m
+[0m[0m
+[0m[4mF:\#projects\smp\js-anti-pattern-catcher\testFiles\vuepress-master\packages\@vuepress\shared-utils\__tests__\parseHeaders.spec.ts[24m[0m
+[0m   [2m3:1[22m  [31merror[39m  'describe' is not defined  [2mno-undef[22m[0m
+[0m   [2m4:3[22m  [31merror[39m  'test' is not defined      [2mno-undef[22m[0m
+[0m   [2m6:5[22m  [31merror[39m  'expect' is not defined    [2mno-undef[22m[0m
+[0m   [2m9:3[22m  [31merror[39m  'test' is not defined      [2mno-undef[22m[0m
+[0m  [2m32:7[22m  [31merror[39m  'expect' is not defined    [2mno-undef[22m[0m
+[0m[0m
+[0m[4mF:\#projects\smp\js-anti-pattern-catcher\testFiles\vuepress-master\packages\@vuepress\shared-utils\__tests__\removeNonCodeWrappedHTML.spec.ts[24m[0m
+[0m   [2m3:1[22m  [31merror[39m  'test' is not defined    [2mno-undef[22m[0m
+[0m  [2m54:5[22m  [31merror[39m  'expect' is not defined  [2mno-undef[22m[0m
+[0m[0m
+[0m[4mF:\#projects\smp\js-anti-pattern-catcher\testFiles\vuepress-master\packages\@vuepress\shared-utils\__tests__\slugify.spec.ts[24m[0m
+[0m   [2m3:1[22m  [31merror[39m  'describe' is not defined  [2mno-undef[22m[0m
+[0m   [2m4:3[22m  [31merror[39m  'test' is not defined      [2mno-undef[22m[0m
+[0m  [2m27:7[22m  [31merror[39m  'expect' is not defined    [2mno-undef[22m[0m
+[0m[0m
+[0m[4mF:\#projects\smp\js-anti-pattern-catcher\testFiles\vuepress-master\packages\@vuepress\shared-utils\__tests__\unescapeHtml.spec.ts[24m[0m
+[0m  [2m3:1[22m  [31merror[39m  'test' is not defined    [2mno-undef[22m[0m
+[0m  [2m5:3[22m  [31merror[39m  'expect' is not defined  [2mno-undef[22m[0m
+[0m[0m
+[0m[4mF:\#projects\smp\js-anti-pattern-catcher\testFiles\vuepress-master\packages\@vuepress\shared-utils\scripts\update-index.js[24m[0m
+[0m   [2m9:21[22m  [31merror[39m  No magic number: 0               [2mno-magic-numbers[22m[0m
+[0m  [2m22:5[22m   [31merror[39m  Unexpected string concatenation  [2mprefer-template[22m[0m
+[0m  [2m24:65[22m  [31merror[39m  No magic number: 1               [2mno-magic-numbers[22m[0m
+[0m  [2m24:71[22m  [31merror[39m  No magic number: 0               [2mno-magic-numbers[22m[0m
+[0m  [2m29:55[22m  [31merror[39m  No magic number: 1               [2mno-magic-numbers[22m[0m
+[0m[0m
+[0m[4mF:\#projects\smp\js-anti-pattern-catcher\testFiles\vuepress-master\packages\@vuepress\shared-utils\src\codegen.ts[24m[0m
+[0m  [2m17:27[22m  [31merror[39m  No magic number: 1  [2mno-magic-numbers[22m[0m
+[0m[0m
+[0m[4mF:\#projects\smp\js-anti-pattern-catcher\testFiles\vuepress-master\packages\@vuepress\shared-utils\src\compose.ts[24m[0m
+[0m  [2m8:29[22m  [31merror[39m  No magic number: 0  [2mno-magic-numbers[22m[0m
+[0m  [2m9:29[22m  [31merror[39m  No magic number: 1  [2mno-magic-numbers[22m[0m
+[0m  [2m9:50[22m  [31merror[39m  No magic number: 0  [2mno-magic-numbers[22m[0m
+[0m[0m
+[0m[4mF:\#projects\smp\js-anti-pattern-catcher\testFiles\vuepress-master\packages\@vuepress\shared-utils\src\datatypes.ts[24m[0m
+[0m  [2m10:59[22m  [31merror[39m  No magic number: 8               [2mno-magic-numbers[22m[0m
+[0m  [2m10:62[22m  [31merror[39m  No magic number: -1              [2mno-magic-numbers[22m[0m
+[0m  [2m22:70[22m  [31merror[39m  No magic number: 8               [2mno-magic-numbers[22m[0m
+[0m  [2m22:73[22m  [31merror[39m  No magic number: -1              [2mno-magic-numbers[22m[0m
+[0m  [2m25:24[22m  [31merror[39m  No magic number: 1               [2mno-magic-numbers[22m[0m
+[0m  [2m38:15[22m  [31merror[39m  No magic number: 1               [2mno-magic-numbers[22m[0m
+[0m  [2m41:28[22m  [31merror[39m  No magic number: 0               [2mno-magic-numbers[22m[0m
+[0m  [2m41:37[22m  [31merror[39m  No magic number: 1               [2mno-magic-numbers[22m[0m
+[0m  [2m42:28[22m  [31merror[39m  No magic number: 1               [2mno-magic-numbers[22m[0m
+[0m  [2m43:10[22m  [31merror[39m  Unexpected string concatenation  [2mprefer-template[22m[0m
+[0m[0m
+[0m[4mF:\#projects\smp\js-anti-pattern-catcher\testFiles\vuepress-master\packages\@vuepress\shared-utils\src\ensureEndingSlash.ts[24m[0m
+[0m  [2m4:7[22m  [31merror[39m  Unexpected string concatenation  [2mprefer-template[22m[0m
+[0m[0m
+[0m[4mF:\#projects\smp\js-anti-pattern-catcher\testFiles\vuepress-master\packages\@vuepress\shared-utils\src\extractHeaders.ts[24m[0m
+[0m  [2m27:32[22m  [31merror[39m  No magic number: 1  [2mno-magic-numbers[22m[0m
+[0m  [2m28:67[22m  [31merror[39m  No magic number: 1  [2mno-magic-numbers[22m[0m
+[0m  [2m30:37[22m  [31merror[39m  No magic number: 1  [2mno-magic-numbers[22m[0m
+[0m[0m
+[0m[4mF:\#projects\smp\js-anti-pattern-catcher\testFiles\vuepress-master\packages\@vuepress\shared-utils\src\getPermalink.ts[24m[0m
+[0m  [2m29:38[22m  [31merror[39m  No magic number: 1                                                                          [2mno-magic-numbers[22m[0m
+[0m  [2m44:23[22m  [31merror[39m  Unexpected mix of '+' and '*'. Use parentheses to clarify the intended order of operations  [2mno-mixed-operators[22m[0m
+[0m  [2m44:55[22m  [31merror[39m  No magic number: 60                                                                         [2mno-magic-numbers[22m[0m
+[0m  [2m44:58[22m  [31merror[39m  Unexpected mix of '+' and '*'. Use parentheses to clarify the intended order of operations  [2mno-mixed-operators[22m[0m
+[0m  [2m44:60[22m  [31merror[39m  No magic number: 1000                                                                       [2mno-magic-numbers[22m[0m
+[0m  [2m70:33[22m  [31merror[39m  No magic number: 1                                                                          [2mno-magic-numbers[22m[0m
+[0m  [2m74:26[22m  [31merror[39m  No magic number: 10                                                                         [2mno-magic-numbers[22m[0m
+[0m  [2m75:22[22m  [31merror[39m  No magic number: 10                                                                         [2mno-magic-numbers[22m[0m
+[0m[0m
+[0m[4mF:\#projects\smp\js-anti-pattern-catcher\testFiles\vuepress-master\packages\@vuepress\shared-utils\src\inferTitle.ts[24m[0m
+[0m  [2m20:37[22m  [31merror[39m  No magic number: 1  [2mno-magic-numbers[22m[0m
+[0m[0m
+[0m[4mF:\#projects\smp\js-anti-pattern-catcher\testFiles\vuepress-master\packages\@vuepress\shared-utils\src\logger.ts[24m[0m
+[0m  [2m20:13[22m  [31merror[39m  No magic number: 4  [2mno-magic-numbers[22m[0m
+[0m  [2m21:13[22m  [31merror[39m  No magic number: 3  [2mno-magic-numbers[22m[0m
+[0m  [2m33:33[22m  [31merror[39m  No magic number: 4  [2mno-magic-numbers[22m[0m
+[0m  [2m42:33[22m  [31merror[39m  No magic number: 2  [2mno-magic-numbers[22m[0m
+[0m  [2m50:33[22m  [31merror[39m  No magic number: 1  [2mno-magic-numbers[22m[0m
+[0m  [2m53:44[22m  [31merror[39m  No magic number: 1  [2mno-magic-numbers[22m[0m
+[0m  [2m59:33[22m  [31merror[39m  No magic number: 3  [2mno-magic-numbers[22m[0m
+[0m  [2m67:33[22m  [31merror[39m  No magic number: 3  [2mno-magic-numbers[22m[0m
+[0m  [2m75:33[22m  [31merror[39m  No magic number: 3  [2mno-magic-numbers[22m[0m
+[0m  [2m82:33[22m  [31merror[39m  No magic number: 3  [2mno-magic-numbers[22m[0m
+[0m  [2m90:33[22m  [31merror[39m  No magic number: 3  [2mno-magic-numbers[22m[0m
+[0m[0m
+[0m[4mF:\#projects\smp\js-anti-pattern-catcher\testFiles\vuepress-master\packages\@vuepress\shared-utils\src\moduleResolver.ts[24m[0m
+[0m   [2m91:43[22m  [31merror[39m  No magic number: 1               [2mno-magic-numbers[22m[0m
+[0m   [2m95:71[22m  [31merror[39m  No magic number: 1               [2mno-magic-numbers[22m[0m
+[0m  [2m160:7[22m   [31merror[39m  Unexpected string concatenation  [2mprefer-template[22m[0m
+[0m[0m
+[0m[4mF:\#projects\smp\js-anti-pattern-catcher\testFiles\vuepress-master\packages\@vuepress\shared-utils\src\parseFrontmatter.ts[24m[0m
+[0m  [2m6:5[22m  [31merror[39m  Definition for rule '@typescript-eslint/camelcase' was not found  [2m@typescript-eslint/camelcase[22m[0m
+[0m[0m
+[0m[4mF:\#projects\smp\js-anti-pattern-catcher\testFiles\vuepress-master\packages\@vuepress\shared-utils\src\parseHeaders.ts[24m[0m
+[0m  [2m20:25[22m  [31merror[39m  Unnecessary escape character: \!  [2mno-useless-escape[22m[0m
+[0m[0m
+[0m[4mF:\#projects\smp\js-anti-pattern-catcher\testFiles\vuepress-master\packages\@vuepress\shared-utils\src\slugify.ts[24m[0m
+[0m  [2m19:15[22m  [31merror[39m  Unnecessary escape character: \-  [2mno-useless-escape[22m[0m
+[0m  [2m21:16[22m  [31merror[39m  Unnecessary escape character: \-  [2mno-useless-escape[22m[0m
+[0m  [2m21:20[22m  [31merror[39m  Unnecessary escape character: \-  [2mno-useless-escape[22m[0m
+[0m[0m
+[0m[4mF:\#projects\smp\js-anti-pattern-catcher\testFiles\vuepress-master\packages\@vuepress\shared-utils\src\sort.ts[24m[0m
+[0m  [2m3:23[22m  [31merror[39m  No magic number: -1  [2mno-magic-numbers[22m[0m
+[0m  [2m4:23[22m  [31merror[39m  No magic number: 1   [2mno-magic-numbers[22m[0m
+[0m  [2m5:12[22m  [31merror[39m  No magic number: 0   [2mno-magic-numbers[22m[0m
+[0m[0m
+[0m[4mF:\#projects\smp\js-anti-pattern-catcher\testFiles\vuepress-master\packages\@vuepress\shared-utils\src\tryChain.ts[24m[0m
+[0m  [2m18:17[22m  [31merror[39m  Empty block statement  [2mno-empty[22m[0m
+[0m[0m
+[0m[4mF:\#projects\smp\js-anti-pattern-catcher\testFiles\vuepress-master\packages\@vuepress\test-utils\client\createLocalVue.js[24m[0m
+[0m  [2m17:37[22m  [31merror[39m  No magic number: 0  [2mno-magic-numbers[22m[0m
+[0m[0m
+[0m[4mF:\#projects\smp\js-anti-pattern-catcher\testFiles\vuepress-master\packages\@vuepress\test-utils\lib\createJestRunner.js[24m[0m
+[0m  [2m25:43[22m  [31merror[39m  No magic number: 0     [2mno-magic-numbers[22m[0m
+[0m  [2m30:26[22m  [31merror[39m  No magic number: -1    [2mno-magic-numbers[22m[0m
+[0m  [2m34:7[22m   [31merror[39m  No magic number: 1     [2mno-magic-numbers[22m[0m
+[0m  [2m38:33[22m  [31merror[39m  No magic number: 1     [2mno-magic-numbers[22m[0m
+[0m  [2m40:18[22m  [31merror[39m  No magic number: 9230  [2mno-magic-numbers[22m[0m
+[0m[0m
+[0m[4mF:\#projects\smp\js-anti-pattern-catcher\testFiles\vuepress-master\packages\@vuepress\theme-default\__tests__\components\DropdownLink.spec.js[24m[0m
+[0m   [2m5:1[22m  [31merror[39m  'describe' is not defined  [2mno-undef[22m[0m
+[0m   [2m6:3[22m  [31merror[39m  'test' is not defined      [2mno-undef[22m[0m
+[0m  [2m28:5[22m  [31merror[39m  'expect' is not defined    [2mno-undef[22m[0m
+[0m[0m
+[0m[4mF:\#projects\smp\js-anti-pattern-catcher\testFiles\vuepress-master\packages\@vuepress\theme-default\__tests__\components\NavLink.spec.js[24m[0m
+[0m   [2m5:1[22m  [31merror[39m  'describe' is not defined  [2mno-undef[22m[0m
+[0m   [2m6:3[22m  [31merror[39m  'test' is not defined      [2mno-undef[22m[0m
+[0m  [2m18:5[22m  [31merror[39m  'expect' is not defined    [2mno-undef[22m[0m
+[0m  [2m21:3[22m  [31merror[39m  'test' is not defined      [2mno-undef[22m[0m
+[0m  [2m30:5[22m  [31merror[39m  'expect' is not defined    [2mno-undef[22m[0m
+[0m[0m
+[0m[4mF:\#projects\smp\js-anti-pattern-catcher\testFiles\vuepress-master\packages\@vuepress\theme-default\index.js[24m[0m
+[0m  [2m13:1[22m   [31merror[39m  Expected indentation of 6 spaces but found 8                                                  [2mindent[22m[0m
+[0m  [2m13:34[22m  [31merror[39m  Unexpected mix of '&&' and '||'. Use parentheses to clarify the intended order of operations  [2mno-mixed-operators[22m[0m
+[0m  [2m13:57[22m  [31merror[39m  Unexpected mix of '&&' and '||'. Use parentheses to clarify the intended order of operations  [2mno-mixed-operators[22m[0m
+[0m  [2m14:1[22m   [31merror[39m  Expected indentation of 6 spaces but found 8                                                  [2mindent[22m[0m
+[0m[0m
+[0m[4mF:\#projects\smp\js-anti-pattern-catcher\testFiles\vuepress-master\packages\@vuepress\theme-default\util\index.js[24m[0m
+[0m   [2m15:18[22m  [31merror[39m  No magic number: 0                                                            [2mno-magic-numbers[22m[0m
+[0m   [2m36:38[22m  [31merror[39m  No magic number: 0                                                            [2mno-magic-numbers[22m[0m
+[0m   [2m42:10[22m  [31merror[39m  Unexpected string concatenation                                               [2mprefer-template[22m[0m
+[0m   [2m80:37[22m  [31merror[39m  No magic number: 0                                                            [2mno-magic-numbers[22m[0m
+[0m   [2m94:40[22m  [31merror[39m  No magic number: 1                                                            [2mno-magic-numbers[22m[0m
+[0m  [2m110:13[22m  [31merror[39m  No magic number: 0                                                            [2mno-magic-numbers[22m[0m
+[0m  [2m124:8[22m   [31merror[39m  Function 'resolveSidebarItems' has a complexity of 11. Maximum allowed is 10  [2mcomplexity[22m[0m
+[0m  [2m165:13[22m  [31merror[39m  Unexpected string concatenation                                               [2mprefer-template[22m[0m
+[0m  [2m176:21[22m  [31merror[39m  No magic number: 2                                                            [2mno-magic-numbers[22m[0m
+[0m  [2m182:42[22m  [31merror[39m  No magic number: 2                                                            [2mno-magic-numbers[22m[0m
+[0m  [2m204:69[22m  [31merror[39m  No magic number: 0                                                            [2mno-magic-numbers[22m[0m
+[0m  [2m217:7[22m   [31merror[39m  Unexpected string concatenation                                               [2mprefer-template[22m[0m
+[0m  [2m220:55[22m  [31merror[39m  No magic number: 1                                                            [2mno-magic-numbers[22m[0m
+[0m  [2m224:50[22m  [31merror[39m  No magic number: 0                                                            [2mno-magic-numbers[22m[0m
+[0m  [2m225:19[22m  [31merror[39m  No magic number: 1                                                            [2mno-magic-numbers[22m[0m
+[0m  [2m229:29[22m  [31merror[39m  No magic number: 0                                                            [2mno-magic-numbers[22m[0m
+[0m  [2m240:84[22m  [31merror[39m  No magic number: 1                                                            [2mno-magic-numbers[22m[0m
+[0m[0m
+[0m[4mF:\#projects\smp\js-anti-pattern-catcher\testFiles\vuepress-master\packages\@vuepress\types\src\config.ts[24m[0m
+[0m  [2m13:33[22m  [31merror[39m  'HTMLElementTagNameMap' is not defined  [2mno-undef[22m[0m
+[0m  [2m21:11[22m  [31merror[39m  'HTMLElementTagNameMap' is not defined  [2mno-undef[22m[0m
+[0m[0m
+[0m[4mF:\#projects\smp\js-anti-pattern-catcher\testFiles\vuepress-master\packages\docs\docs\.vuepress\config\sidebar\shared.ts[24m[0m
+[0m  [2m7:20[22m  [31merror[39m  Unexpected string concatenation  [2mprefer-template[22m[0m
+[0m  [2m7:49[22m  [31merror[39m  No magic number: 0               [2mno-magic-numbers[22m[0m
+[0m  [2m7:52[22m  [31merror[39m  No magic number: -3              [2mno-magic-numbers[22m[0m
+[0m[0m
+[0m[4mF:\#projects\smp\js-anti-pattern-catcher\testFiles\vuepress-master\packages\vuepress\cli.js[24m[0m
+[0m  [2m24:3[22m   [31merror[39m  Async method 'afterParse' has no 'await' expression  [2mrequire-await[22m[0m
+[0m  [2m25:29[22m  [31merror[39m  No magic number: 2                                   [2mno-magic-numbers[22m[0m
+[0m[0m
+[0m[4mF:\#projects\smp\js-anti-pattern-catcher\testFiles\vuepress-master\packages\vuepress\lib\checkEnv.js[24m[0m
+[0m  [2m22:18[22m  [31merror[39m  No magic number: 1  [2mno-magic-numbers[22m[0m
+[0m[0m
+[0m[4mF:\#projects\smp\js-anti-pattern-catcher\testFiles\vuepress-master\packages\vuepress\lib\handleUnknownCommand.js[24m[0m
+[0m   [2m19:35[22m  [31merror[39m  No magic number: 2                                                        [2mno-magic-numbers[22m[0m
+[0m   [2m24:25[22m  [31merror[39m  No magic number: 0                                                        [2mno-magic-numbers[22m[0m
+[0m   [2m63:41[22m  [31merror[39m  No magic number: 0                                                        [2mno-magic-numbers[22m[0m
+[0m   [2m79:23[22m  [31merror[39m  Async arrow function has too many statements (21). Maximum allowed is 20  [2mmax-statements[22m[0m
+[0m   [2m87:28[22m  [31merror[39m  No magic number: 1                                                        [2mno-magic-numbers[22m[0m
+[0m   [2m87:51[22m  [31merror[39m  No magic number: 1                                                        [2mno-magic-numbers[22m[0m
+[0m   [2m98:20[22m  [31merror[39m  No magic number: 1                                                        [2mno-magic-numbers[22m[0m
+[0m  [2m103:20[22m  [31merror[39m  No magic number: 1                                                        [2mno-magic-numbers[22m[0m
+[0m  [2m125:7[22m   [31merror[39m  Async method 'afterParse' has no 'await' expression                       [2mrequire-await[22m[0m
+[0m  [2m140:51[22m  [31merror[39m  No magic number: 1                                                        [2mno-magic-numbers[22m[0m
+[0m[0m
+[0m[4mF:\#projects\smp\js-anti-pattern-catcher\testFiles\vuepress-master\packages\vuepress\lib\registerCoreCommands.js[24m[0m
+[0m  [2m33:46[22m  [31merror[39m  No magic number: 1  [2mno-magic-numbers[22m[0m
+[0m  [2m33:58[22m  [31merror[39m  No magic number: 4  [2mno-magic-numbers[22m[0m
+[0m  [2m33:62[22m  [31merror[39m  No magic number: 3  [2mno-magic-numbers[22m[0m
+[0m  [2m58:46[22m  [31merror[39m  No magic number: 1  [2mno-magic-numbers[22m[0m
+[0m  [2m58:58[22m  [31merror[39m  No magic number: 4  [2mno-magic-numbers[22m[0m
+[0m  [2m58:62[22m  [31merror[39m  No magic number: 3  [2mno-magic-numbers[22m[0m
+[0m[0m
+[0m[4mF:\#projects\smp\js-anti-pattern-catcher\testFiles\vuepress-master\packages\vuepress\lib\util.js[24m[0m
+[0m  [2m49:58[22m  [31merror[39m  No magic number: 0  [2mno-magic-numbers[22m[0m
+[0m[0m
+[0m[4mF:\#projects\smp\js-anti-pattern-catcher\testFiles\vuepress-master\scripts\bootstrap.js[24m[0m
+[0m  [2m11:18[22m  [31merror[39m  No magic number: 0  [2mno-magic-numbers[22m[0m
+[0m  [2m45:58[22m  [31merror[39m  No magic number: 2  [2mno-magic-numbers[22m[0m
+[0m[0m
+[0m[4mF:\#projects\smp\js-anti-pattern-catcher\testFiles\vuepress-master\scripts\test.js[24m[0m
+[0m   [2m5:36[22m  [31merror[39m  No magic number: 2  [2mno-magic-numbers[22m[0m
+[0m  [2m15:21[22m  [31merror[39m  No magic number: 2  [2mno-magic-numbers[22m[0m
+[0m  [2m32:18[22m  [31merror[39m  No magic number: 1  [2mno-magic-numbers[22m[0m
+[0m[0m
+[0m[31m[1m✖ 847 problems (847 errors, 0 warnings)[22m[39m[0m
+[0m[31m[1m[22m[39m[31m[1m  217 errors and 0 warnings potentially fixable with the `--fix` option.[22m[39m[0m
+[0m[31m[1m[22m[39m[0m

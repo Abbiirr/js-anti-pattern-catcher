@@ -46,10 +46,10 @@ def export_to_csv(data, output_file):
 
 
 # Example log file path
-log_file_path = "F:\#projects\smp\js-anti-pattern-catcher\\codeceptjs.log"
+log_file_path = "F:\#projects\smp\js-anti-pattern-catcher\\eslint_log.txt"
 
 parsed_dataset = parse_log(log_file_path)
 
 # Export the parsed dataset to a CSV file
-output_csv_file = "codeceptjs.csv"
+output_csv_file = "sample2.csv"
 export_to_csv(parsed_dataset, output_csv_file)
